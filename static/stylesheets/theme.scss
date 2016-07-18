@@ -1,5 +1,26 @@
-.navbar-brand{
-  font-size: 2.5em;
+// Btns
+.btn-default:hover{
+  border-color: mix( $brand-primary, white, 75% );
+  background: mix( $brand-primary, white, 75% );
+}
+
+// Icons
+.btn[class*="icon-"]:before{
+  // align-right
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+// Header
+
+
+.navbar-brand a{
+  color: $brand-primary;
+
+  &:hover{
+    color: $brand-terciary;
+  }
 }
 
 .navbar-default .navbar-nav{
@@ -9,50 +30,190 @@
 
   > li > a{
     text-transform: uppercase;
-    font-weight: $font-weight-400;
-
-    &:hover{
-      color: $brand-primary;
-    }
   }
 }
 
-.nav-tabs > li > a{
-  font-size: 1em;
+// Section Header
+.section-header .page-title{
+  color: black;
+}
 
-  > h3{
-    color: $brand-primary;
-    text-transform: uppercase;   
-    font-weight: $font-weight-400;
+// Social Sharing
+.social-sharing-toolbox li a{
+  background-color: $brand-primary;
+}
+
+// Data Sources
+.data-sources {
+  background: $brand-terciary;
+  .alert{
+   background: mix( $brand-terciary, white, 50% );
   }
 }
 
+// Data Downloads
 .panel-downloads{
-  background: $brand-secondary;
   border-color: $brand-secondary;
+  background: $brand-secondary;
 
   a{
     color: $brand-primary;
 
     &:hover{
-      color: $brand-terciary;
+      color: $text-color;
     }
   }
 }
 
+// Home
+.home-content .options{
+  background: $brand-secondary;
+
+  .option > div{
+
+    .option-title:hover h3{
+      color: $text-color;
+    }
+
+    .btn{
+      font-size: 1.125em;
+      font-weight: $font-weight-300;
+
+      &:before{
+        content: "";
+        display: block;
+        width: 19px;
+        height: 19px;
+        margin-top: 1px;
+        background: url(/static/assets/plus-icon.png) no-repeat 0 0 transparent;
+      }
+    }
+  }
+}
+
+// Budget
+.budget-intro{
+  background: $brand-terciary;
+
+  .budget-step{
+    border: none;
+
+    h3 
+    span{
+      color: $brand-primary;
+      font-weight: $font-weight-400;
+    }
+    b{
+      font-weight: $font-weight-400;
+    }
+    .desc{
+      font-size: 1em;
+      background: $gray-light;
+
+      b{
+        font-weight: $font-weight-400;
+      }
+    }
+  }
+}
+.budget-data{
+  background: $brand-secondary;
+}
+
+// Policies
 .policies-chart{
-  background: none;
+  background: $brand-secondary;
 }
 
-.social-sharing-toolbox li a{
-  background-color: $brand-primary;
+.policies-graph{
+  background: white;
 }
 
+.stacked-area-chart-legend .label{
+  
+  &:hover{
+    background: $brand-secondary;
+  }
+}
+
+// Glossary
 .form-search-glossary .btn-primary{
-  background: $brand-primary;
+  background-color: $brand-primary;
+  border-color: $brand-primary;
+
+  &:hover{
+    background-color: mix( $brand-primary, white, 75% );
+    border-color: mix( $brand-primary, white, 75% );
+  }
+}
+.glossary-terms h3, 
+.glossary-terms h4{
+  font-weight: $font-weight-300;
+  
+  &:before{
+    color: $brand-primary;
+  }
+}
+
+.form-search-glossary .form-control{
   border-color: $brand-primary;
 }
-.glossary-terms h3:before, 
-.glossary-terms h4:before{
-  color: $brand-primary;
+
+// Search
+.search-content .alert{
+  background: $brand-secondary;
+}
+.search-content .panel{
+  border-color: $brand-primary;
+
+  .panel-heading{
+    color: white;
+    background: $brand-primary;
+
+    h3{
+      color: white;
+    }
+  }
+}
+
+// Search Icon
+.form-search-glossary .btn-default:before,
+.form-search .form-inline .btn:before{
+  content: "";
+  display: block;
+  width: 15px;
+  height: 15px;
+  margin-top: 2px;
+  background: url(/static/assets/search-icon.png) no-repeat 0 0 transparent;
+}
+
+.tax-receipt-table-content{
+  background: white;
+}
+
+.tax-receipt-content{
+
+  .form-user-incomings,
+  #tax-amount{
+    background: $brand-secondary;
+  }
+
+  .form-user-incomings{
+    
+    h3{
+      color: $gray-light;
+    }
+
+    label.bonus{
+      font-weight: normal;
+    }
+
+    .checkbox{
+      clear: both;
+
+      label{
+        line-height: 20px;
+      }
+    }
+  }
 }
