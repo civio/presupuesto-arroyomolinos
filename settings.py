@@ -8,7 +8,7 @@ MAIN_ENTITY_NAME = 'Arroyomolinos'
 BUDGET_LOADER = 'ArroyomolinosBudgetLoader'
 PAYMENTS_LOADER = 'ArroyomolinosPaymentsLoader'
 
-FEATURED_PROGRAMMES = ['3340', '3200', '2311', '1533']
+FEATURED_PROGRAMMES = ['1300', '1630', '3341', '3342', '3400', '3200']
 
 OVERVIEW_INCOME_NODES = [
                           {
