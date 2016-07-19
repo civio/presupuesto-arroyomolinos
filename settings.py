@@ -13,35 +13,31 @@ FEATURED_PROGRAMMES = ['3340', '3200', '2311', '1533']
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
-                            'label.es': 'Impuesto a bienes inmuebles de naturaleza urbana',
-                            'label.ca': 'Impost sobre béns immobles de naturalesa urbana',
+                            'label': 'Impuesto a bienes inmuebles de naturaleza urbana',
                             'link_id': '11'
                           },
-                          '42', '45',
-                          {
-                            'nodes': [['39', '391']],
-                            'label.es': 'Multas',
-                            'label.ca': 'Multes',
-                            'link_id': '39'
-                          },
+                          '42', '29',
                           {
                             'nodes': [['11', '115']],
-                            'label.es': 'Impuesto sobre vehículos de tracción mecánica',
-                            'label.ca': 'Impost sobre vehicles de tracció mecànica',
+                            'label': 'Impuesto sobre vehículos de tracción mecánica',
+                            'link_id': '11'
+                          },
+                          {
+                            'nodes': [['11', '116']],
+                            'label': 'Impuesto sobre incremento del valor de terrenos',
                             'link_id': '11'
                           },
                           {
                             'nodes': [['30', '302']],
-                            'label.es': 'Servicio de recogida de basuras',
-                            'label.ca': "Servei de recollida d'escombraries",
+                            'label': 'Servicio de recogida de basuras',
                             'link_id': '30'
                           },
                         ]
-OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '01', '15', '33', '23', '17', '32']
+OVERVIEW_EXPENSE_NODES = ['92', '13', '16', '22', '33', '17', '34', '32', '15']
 
 # How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
-# OVERVIEW_RELAX_FACTOR = 0.95
+OVERVIEW_RELAX_FACTOR = 0.95
 
 # Show Payments section in menu & home options. Default: False.
 # SHOW_PAYMENTS           = True
