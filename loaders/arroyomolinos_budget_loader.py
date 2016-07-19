@@ -8,16 +8,16 @@ import re
 
 class ArroyomolinosBudgetLoader(SimpleBudgetLoader):
 
-    # An artifact of the in2csv conversion of the original XLS files is a trailing '.0', which we remove here
-    def clean(self, s):
-        return s.split('.')[0]
-
     def parse_item(self, filename, line):
         # Programme codes have changed in 2015, due to new laws. Since the application expects a code-programme
         # mapping to be constant over time, we are forced to amend budget data prior to 2015.
         programme_mapping = {
             # old programme: new programme
             # '1320': '1300',
+        }
+        programme_mapping_2015 = {
+            # old programme: new programme
+            '3110': '3130',
         }
 
         # Some dirty lines in input data
@@ -35,6 +35,8 @@ class ArroyomolinosBudgetLoader(SimpleBudgetLoader):
             year = re.search('municipio/(\d+)/', filename).group(1)
             if int(year) < 2015:
                 fc_code = programme_mapping.get(fc_code, fc_code)
+            else:
+                fc_code = programme_mapping_2015.get(fc_code, fc_code)
 
             return {
                 'is_expense': True,
