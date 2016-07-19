@@ -13,7 +13,17 @@ class ArroyomolinosBudgetLoader(SimpleBudgetLoader):
         # mapping to be constant over time, we are forced to amend budget data prior to 2015.
         programme_mapping = {
             # old programme: new programme
-            # '1320': '1300',
+            '1340': '1350',     # Protección Civil
+            '1350': '1360',     # Extinción de incendios
+            '1600': '9201',     # Servicios generales
+            '2300': '2310',     # Servicios sociales > Asistencia social primaria
+            '2310': '2210',     # Acción social > Otras prestaciones económicas a favor de empleados
+            '2340': '3341',     # Infancia y juventud
+            '2350': '3342',     # Tercera edad
+            '2360': '3343',     # Mujer
+            '4310': '4320',     # Turismo
+            '9200': '9202',     # Administración general
+
         }
         programme_mapping_2015 = {
             # old programme: new programme

@@ -40,6 +40,8 @@
 1,5,1,0,Urbanismo
 1,5,5,0,Vías Públicas
 1,6,0,0,Alcantarillado
+1,6,0,1,Servicios generales
+1,6,2,0,"Recogida, eliminación y tratamiento de residuos"
 1,6,2,1,Recogida de residuos
 1,6,2,2,Gestión de residuos sólidos urbanos
 1,6,2,3,Tratamiento de residuos
@@ -47,11 +49,13 @@
 1,6,4,0,Cementerio y servicios funerarios
 1,6,5,0,Alumbrado público
 1,7,1,0,Parques y jardines
+1,7,2,0,Mejora del medio ambiente
 2,2,1,0,Otras prestaciones económicas a favor de empleados
 2,3,1,0,Asistencia social primaria
 2,4,1,0,Fomento del empleo
 2,4,2,0,Plan de empleo joven de la Comunidad de Madrid
 3,1,3,0,Acciones Públicas relativas a la Salud
+3,1,4,0,Consumo
 3,2,0,0,Educación
 3,3,0,0,Cultura
 3,3,2,1,Bibliotecas públicas
