@@ -13,7 +13,7 @@ I,1,1,1,Impuesto sobre patrimonio
 I,1,1,2,Sobre bienes inmuebles de naturaleza rústica
 I,1,1,3,Sobre bienes inmuebles de naturaleza urbana
 I,1,1,4,Sobre bienes inmuebles de características especiales
-I,1,1,5,Impuesto sobre vehículos de tracción mecanica
+I,1,1,5,Impuesto sobre vehículos de tracción mecánica
 I,1,1,6,Impuesto sobre incremento del valor de los terrenos de naturaleza urbana
 I,1,1,7,Impuesto sobre viviendas desocupadas
 I,1,3,,Impuesto sobre las actividades económicas
@@ -77,8 +77,8 @@ I,3,3,1,Tasa por entrada de vehículos
 I,3,3,2,Por empresas explotadoras de servicios de suministros
 I,3,3,3,Por empresas explotadoras de servicios de telecomunicaciones
 I,3,3,4,Tasa por apertura de calas y zanjas
-I,3,3,5,Tasa por ocupación de la via pública con terrazas
-I,3,3,6,Tasa por ocupación de la via pública con suspensión temporal del trafico rodado
+I,3,3,5,Tasa por ocupación de la vía pública con terrazas
+I,3,3,6,Tasa por ocupación de la vía pública con suspensión temporal del trafico rodado
 I,3,3,7,Tasas por aprovechamiento del vuelo
 I,3,3,8,Compensación de Telefónica de España SA
 I,3,3,9,Otras tasas por utilización privativa del dominio público
@@ -126,7 +126,7 @@ I,4,5,,De comunidades autónomas
 I,4,5,0,De la Administración General de las comunidades autónomas
 I,4,5,1,De organismos autónomos y agencias de las comunidades autónomas
 I,4,5,2,De fundaciones de las comunidades autónomas
-I,4,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas."
+I,4,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas"
 I,4,6,,De entidades locales
 I,4,6,1,"De diputaciones, consejos o cabildos"
 I,4,6,2,De ayuntamientos
@@ -188,7 +188,7 @@ I,6,,,Enajenacion de inversiones reales
 I,6,0,,De terrenos
 I,6,0,0,Venta de solares
 I,6,0,1,Venta de fincas rústicas
-I,6,0,2,Parcelas sobrantes de la via pública
+I,6,0,2,Parcelas sobrantes de la vía pública
 I,6,0,3,Patrimonio público del suelo
 I,6,0,9,Otros terrenos
 I,6,1,,De las demás inversiones reales
@@ -257,7 +257,7 @@ I,8,6,,Enajenacion de acciones y participaciones fuera del sector público
 I,8,7,,Remanente de tesoreria
 I,8,7,0,Remanente de tesoreria
 I,9,,,Pasivos financieros
-I,9,0,,Emision de deuda pública en euros
+I,9,0,,Emisión de deuda pública en euros
 I,9,0,0,A corto plazo
 I,9,0,1,A largo plazo
 I,9,1,,Préstamos recibidos en euros
@@ -265,7 +265,7 @@ I,9,1,0,Préstamos recibidos a corto plazo de entes del sector público
 I,9,1,1,Préstamos recibidos a largo plazo de entes del sector público
 I,9,1,2,Préstamos recibidos a corto plazo de entes de fuera del sector público
 I,9,1,3,Préstamos recibidos a largo plazo de entes de fuera del sector público
-I,9,2,,Emision de deuda pública en moneda distinta del euro
+I,9,2,,Emisión de deuda pública en moneda distinta del euro
 I,9,2,0,A corto plazo
 I,9,2,1,A largo plazo
 I,9,3,,Préstamos recibidos en moneda distinta del euro
