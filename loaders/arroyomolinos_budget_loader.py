@@ -60,6 +60,11 @@ class ArroyomolinosBudgetLoader(SimpleBudgetLoader):
             }
 
         else:
+            description = line[3]
+            # Fix typo in input data
+            if description=='Trnasferencias I.A.E.' or description=='Trnasferencias del I.A.E.':
+                description = 'Transferencias I.A.E.';
+
             ec_code = line[2]
             return {
                 'is_expense': False,
@@ -67,6 +72,6 @@ class ArroyomolinosBudgetLoader(SimpleBudgetLoader):
                 'ec_code': ec_code[:-2],        # First three digits
                 'ic_code': '000',               # All income goes to the root node
                 'item_number': ec_code[-2:],    # Fourth and fifth digit
-                'description': line[3],
+                'description': description,
                 'amount': self._parse_amount(line[7 if is_actual else 4])
             }
