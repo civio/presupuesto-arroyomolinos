@@ -6806,8 +6806,8 @@ header > .container {
   margin: 30px auto; }
   .main-entity-logo a {
     display: block;
-    width: 260px;
-    height: 100px;
+    width: 182px;
+    height: 70px;
     margin: 0 auto;
     overflow: hidden;
     text-indent: -9999px;
@@ -7649,6 +7649,9 @@ body.widget .stacked-area-chart-legend {
   float: right;
   margin-right: 0;
   margin-left: 10px; }
+
+.main-entity-logo {
+  margin-top: 16px; }
 
 .navbar-brand a {
   color: #444; }
