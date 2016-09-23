@@ -1076,7 +1076,7 @@ html {
   -webkit-tap-highlight-color: transparent; }
 
 body {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Serif", Times, serif;
   font-size: 14px;
   line-height: 1.42857;
   color: #444;
@@ -1161,7 +1161,7 @@ hr {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: inherit;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.1;
   color: #444; }
   h1 small,
@@ -5277,7 +5277,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Serif", Times, serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -5383,7 +5383,7 @@ button.close {
   display: none;
   max-width: 200px;
   padding: 1px;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Serif", Times, serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -5892,7 +5892,7 @@ body {
 .page-title {
   margin: 30px 0;
   font-size: 2.5em;
-  font-weight: 300;
+  font-weight: 400;
   text-align: center; }
 
 .lead {
@@ -5914,7 +5914,7 @@ body {
   right: 0;
   text-align: center;
   font-size: 1.375em;
-  font-weight: 700; }
+  font-weight: 600; }
 
 label {
   font-weight: 600; }
@@ -5930,7 +5930,7 @@ label {
       background: white;
       border-color: #d0d0d0;
       font-size: 1.5em;
-      font-weight: 300;
+      font-weight: 400;
       text-align: center; }
     .chart-container .popover .popover-content {
       padding-bottom: 15px; }
@@ -6104,7 +6104,7 @@ label {
   pointer-events: none;
   text-align: center;
   text-anchor: middle;
-  font-weight: 300;
+  font-weight: 400;
   -webkit-transition: opacity 0.3s ease-out;
   -o-transition: opacity 0.3s ease-out;
   transition: opacity 0.3s ease-out; }
@@ -6146,7 +6146,7 @@ label {
 .stacked-area-chart .axis text {
   fill: #444;
   font-size: 0.875em;
-  font-weight: 300; }
+  font-weight: 400; }
 .stacked-area-chart .axis.x text {
   font-weight: 400;
   -webkit-transition: fill 0.3s ease-out;
@@ -6232,13 +6232,13 @@ label {
   margin-top: 15px; }
   .policy-breakdown .chart-container .popover-content-variation .label {
     font-size: 1em;
-    font-weight: 300;
+    font-weight: 400;
     margin-right: 5px; }
 .policy-breakdown .chart-container .popover-content-variation-label {
   margin-bottom: 5px;
   font-size: 0.913em;
   font-style: italic;
-  font-weight: 300; }
+  font-weight: 400; }
 
 @media (min-width: 768px) {
   .stacked-area-chart .nonexecuted-overlay text {
@@ -6324,7 +6324,7 @@ label {
     margin: 0;
     padding: 15px 0;
     line-height: 1.25em;
-    font-weight: 700;
+    font-weight: 600;
     text-transform: uppercase; }
   .data-controllers .single-year #year-selection {
     display: none; }
@@ -6367,7 +6367,7 @@ label {
   .data-panel .panel-title .main-label {
     font-weight: 400; }
     .data-panel .panel-title .main-label b {
-      font-weight: 300; }
+      font-weight: 400; }
 .data-panel .panel-content {
   font-size: 1.25em;
   text-transform: uppercase;
@@ -6461,7 +6461,7 @@ label {
     font-size: 1.125em;
     text-align: center;
     text-transform: uppercase;
-    font-weight: 700; }
+    font-weight: 600; }
   .data-sources .panel, .data-sources .panel-downloads, .data-sources .home-content .options .option > div, .home-content .options .data-sources .option > div, .data-sources .budget-intro .budget-step, .budget-intro .data-sources .budget-step, .data-sources .policies-chart, .data-sources .tax-receipt-content .form-user-incomings, .tax-receipt-content .data-sources .form-user-incomings, .data-sources .tax-receipt-content #tax-amount, .tax-receipt-content .data-sources #tax-amount {
     border-color: #c0dfea; }
     .data-sources .panel .panel-heading, .data-sources .panel-downloads .panel-heading, .data-sources .home-content .options .option > div .panel-heading, .home-content .options .data-sources .option > div .panel-heading, .data-sources .budget-intro .budget-step .panel-heading, .budget-intro .data-sources .budget-step .panel-heading, .data-sources .policies-chart .panel-heading, .data-sources .tax-receipt-content .form-user-incomings .panel-heading, .tax-receipt-content .data-sources .form-user-incomings .panel-heading, .data-sources .tax-receipt-content #tax-amount .panel-heading, .tax-receipt-content .data-sources #tax-amount .panel-heading {
@@ -6488,7 +6488,7 @@ label {
     background: #f2f9fb; }
     .data-sources .alert .title {
       margin-bottom: 10px;
-      font-weight: 700;
+      font-weight: 600;
       text-transform: uppercase; }
     .data-sources .alert ul {
       padding-left: 15px; }
@@ -6673,7 +6673,7 @@ label {
   .social-sharing .title {
     color: #555555;
     font-size: 1em;
-    font-weight: 700;
+    font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 15px; }
 
@@ -6819,7 +6819,7 @@ header > .container {
   padding: 0;
   font-size: 3em;
   line-height: 1em;
-  font-weight: 300;
+  font-weight: 400;
   text-align: center; }
   .navbar-brand a:hover {
     opacity: 0.7;
@@ -6887,7 +6887,7 @@ header > .container {
     border-radius: 0;
     font-size: 1.125em;
     line-height: 20px;
-    font-weight: 300; }
+    font-weight: 400; }
     .navbar-default .navbar-toggle:before {
       content: "⇡";
       margin-right: .5em;
@@ -6907,7 +6907,7 @@ header > .container {
       padding-right: 0;
       padding-left: 0;
       border-bottom: 1px solid #a2a2a2;
-      font-weight: 300;
+      font-weight: 400;
       -webkit-transition: background 0.3s ease-out;
       -o-transition: background 0.3s ease-out;
       transition: background 0.3s ease-out; }
@@ -6977,7 +6977,7 @@ header > .container {
   background: #222222;
   text-align: center; }
   .main-footer .credit-aragon {
-    font-weight: 300;
+    font-weight: 400;
     margin-bottom: 30px; }
     .main-footer .credit-aragon > a {
       display: inline-block;
@@ -7162,7 +7162,7 @@ header > .container {
       font-size: .875em;
       margin: 0;
       padding: 15px;
-      font-weight: 300; }
+      font-weight: 400; }
       .budget-intro .budget-step .desc b {
         font-weight: 600; }
 
@@ -7223,7 +7223,7 @@ header > .container {
       .budget-data .budget-totals .panel-content .chapters {
         text-transform: none; }
       .budget-data .budget-totals .panel-content .chapters-sub {
-        font-weight: 300;
+        font-weight: 400;
         border-top-color: #dadada; }
         .budget-data .budget-totals .panel-content .chapters-sub.chapters-sub-first {
           border-top-color: #b4b4b4; }
@@ -7257,7 +7257,7 @@ header > .container {
     color: #444;
     font-size: 0.875em;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 600;
     border-left: 2px solid #F2F2F2;
     background: #fcfcfc;
     white-space: nowrap;
@@ -7356,7 +7356,7 @@ header > .container {
   margin-bottom: 30px; }
 #query-panel .panel-content {
   font-size: 1.375em;
-  font-weight: 300;
+  font-weight: 400;
   text-transform: none; }
   #query-panel .panel-content b {
     display: inline;
@@ -7422,7 +7422,7 @@ header > .container {
   background: #cde5ee; }
   .tax-receipt-table-content .tax-detail-intro {
     font-size: 1.5em;
-    font-weight: 300;
+    font-weight: 400;
     text-align: center;
     margin-bottom: 30px; }
   .tax-receipt-table-content .table-grid {
@@ -7641,6 +7641,28 @@ body.widget .chart-embed-btn {
 body.widget .stacked-area-chart-legend {
   text-align: left; }
 
+h1, h2, h3, h4,
+.btn,
+.navbar-default,
+.main-footer,
+.sankey .legend-item,
+.sankey-labels,
+.data-controllers,
+.panel-title,
+.social-sharing,
+.policies-chart,
+.history-back,
+.tax-detail-intro,
+table thead {
+  font-family: "Noto Sans", Arial, sans-serif; }
+
+#totals-panel .panel-title,
+#totals-panel .panel-content {
+  font-size: 1.125em; }
+
+.page-title {
+  font-size: 2em; }
+
 .btn-default:hover {
   border-color: #737373;
   background: #737373; }
@@ -7658,10 +7680,12 @@ body.widget .stacked-area-chart-legend {
   .navbar-brand a:hover {
     color: #c0dfea; }
 
-.navbar-default .navbar-nav [class*="icon-"]:before {
-  display: none; }
-.navbar-default .navbar-nav > li > a {
-  text-transform: uppercase; }
+.navbar-default .navbar-nav {
+  font-size: 0.913em; }
+  .navbar-default .navbar-nav [class*="icon-"]:before {
+    display: none; }
+  .navbar-default .navbar-nav > li > a {
+    text-transform: uppercase; }
 
 .section-header .page-title {
   color: black; }
@@ -7688,7 +7712,7 @@ body.widget .stacked-area-chart-legend {
     color: #444; }
   .home-content .options .option > div .btn {
     font-size: 1.125em;
-    font-weight: 300; }
+    font-weight: 400; }
     .home-content .options .option > div .btn:before {
       content: "";
       display: block;
@@ -7717,7 +7741,7 @@ body.widget .stacked-area-chart-legend {
   background: #F2F2F2; }
 
 .policies-chart {
-  background: #F2F2F2; }
+  background: transparent; }
 
 .policies-graph {
   background: white; }
@@ -7734,7 +7758,7 @@ body.widget .stacked-area-chart-legend {
 
 .glossary-terms h3,
 .glossary-terms h4 {
-  font-weight: 300; }
+  font-weight: 400; }
   .glossary-terms h3:before,
   .glossary-terms h4:before {
     color: #444; }

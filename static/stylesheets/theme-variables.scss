@@ -38,15 +38,15 @@ $link-hover-decoration: underline;
 // Typography
 // -------------
 
-$font-family-sans-serif:  "Open Sans", Helvetica, Arial, sans-serif;
-$font-family-serif:       Georgia, "Times New Roman", Times, serif;
-$font-family-base:        $font-family-sans-serif;
+$font-family-sans-serif:  'Noto Sans', Arial, sans-serif;
+$font-family-serif:       'Noto Serif', Times, serif;
+$font-family-base:        $font-family-serif;
 
-$font-weight-200:         200;
-$font-weight-300:         300;
+$font-weight-200:         400;
+$font-weight-300:         400;
 $font-weight-400:         400;
 $font-weight-600:         600; 
-$font-weight-700:         700;
+$font-weight-700:         600;
 
 $headings-font-weight:    $font-weight-300;
 

@@ -1,3 +1,28 @@
+h1, h2, h3, h4,
+.btn,
+.navbar-default,
+.main-footer,
+.sankey .legend-item,
+.sankey-labels,
+.data-controllers,
+.panel-title,
+.social-sharing,
+.policies-chart,
+.history-back,
+.tax-detail-intro,
+table thead{
+  font-family: $font-family-sans-serif;
+}
+
+#totals-panel .panel-title, 
+#totals-panel .panel-content{
+  font-size: 1.125em;
+}
+
+.page-title{
+  font-size: 2em;
+}
+
 // Btns
 .btn-default:hover{
   border-color: mix( $brand-primary, white, 75% );
@@ -27,6 +52,8 @@
 }
 
 .navbar-default .navbar-nav{
+  font-size: 0.913em;
+
   [class*="icon-"]:before{
     display: none;
   }
@@ -125,7 +152,7 @@
 
 // Policies
 .policies-chart{
-  background: $brand-secondary;
+  background: transparent;
 }
 
 .policies-graph{
