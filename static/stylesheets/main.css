@@ -7773,5 +7773,9 @@ body.widget .stacked-area-chart-legend {
   clear: both; }
   .tax-receipt-content .form-user-incomings .checkbox label {
     line-height: 20px; }
+.tax-receipt-content .form-user-incomings .select-info.select-info-fixed {
+  width: 100%;
+  margin-bottom: 15px;
+  text-align: right; }
 
 /*# sourceMappingURL=main.css.map */

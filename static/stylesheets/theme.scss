@@ -215,5 +215,12 @@
         line-height: 20px;
       }
     }
-  }
+
+    // Fixed tax garbage info
+    .select-info.select-info-fixed{   
+      width: 100%;
+      margin-bottom: 15px;
+      text-align: right;
+    }
+  } 
 }
