@@ -65,8 +65,8 @@ $container-large-desktop:    (1080px + $grid-gutter-width);
 // Main Entity Logo
 // -------------
 
-$main-entity-logo-width:   261px;
-$main-entity-logo-height:  90px;
+$main-entity-logo-width:   260px;
+$main-entity-logo-height:  100px;
 
 
 // Navbar
@@ -115,8 +115,8 @@ $tooltip-opacity:             1;
 // Footer
 // --------------
 
-$footer-color:  $text-color;
-$footer-bg:     white;
+$footer-color:   mix( $gray-light, $gray-lighter, 50% );
+$footer-bg:      #222222;
 
 
 // Buttons
