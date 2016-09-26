@@ -10,11 +10,11 @@ $gray-light:            lighten($gray-base, 46.7%) !default; // #777
 $gray-lighter:          lighten($gray-base, 93.5%) !default; // #eee
 $gray-lightest:         lighten($gray-base, 96%) !default;
 
-$brand-primary:         #444;
-$brand-secondary:       #F2F2F2;
-$brand-terciary:        mix( #037DAB, white, 25% ); //mix( $brand-primary, $brand-secondary, 25% );
+$brand-primary:         #2c3f4b;
+$brand-secondary:       #F1F1F1;
+$brand-terciary:        mix( #45b29d, white, 40% );  //  mix( #037DAB, white, 25% ); //mix( $brand-primary, $brand-secondary, 25% );
             
-$brand-primary-accent:  #3677AE;
+$brand-primary-accent:  #334d5c; //#3677AE;
 
 $text-color:            #444;
 $table-color:           $brand-primary;
@@ -191,5 +191,5 @@ $data-sources-color: $brand-terciary;
 // Sankey Viz
 // --------------
 
-$sankey-budget-color:     darken( $brand-terciary, 5% ); //mix( $gray-light, $gray-lighter, 50% );
-$sankey-execution-color:  lighten( $brand-primary-accent, 10% );
+$sankey-budget-color:     darken( $brand-secondary, 12% ); //mix( $gray-light, $gray-lighter, 50% );
+$sankey-execution-color:  darken( #45b29d, 5% );  //lighten( $brand-primary-accent, 10% );

@@ -43,23 +43,50 @@ table thead{
   margin-top: 16px;
 }
 
-.navbar-brand a{
-  color: $brand-primary;
+.navbar-brand {
+  font-size: 2.5em;
 
-  &:hover{
-    color: $brand-terciary;
+  a{
+    color: $brand-primary;
+
+    &:hover{
+      color: $brand-primary-accent;
+    }
   }
 }
 
-.navbar-default .navbar-nav{
-  font-size: 0.913em;
+.navbar-default {
+  // Gradient background
+  background: #3b807d;
+  background: -moz-linear-gradient(left, #334d5c 0%, #45b29d 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, #334d5c), color-stop(100%, #45b29d));
+  background: -webkit-linear-gradient(left, #334d5c 0%, #45b29d 100%);
+  background: -o-linear-gradient(left, #334d5c 0%, #45b29d 100%);
+  background: -ms-linear-gradient(left, #334d5c 0%, #45b29d 100%);
+  background: linear-gradient(to right, #334d5c 0%, #45b29d 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#334d5c', endColorstr='#45b29c', GradientType=1 );
 
-  [class*="icon-"]:before{
-    display: none;
-  }
+  .navbar-nav{
+    font-size: 0.913em;
 
-  > li > a{
-    text-transform: uppercase;
+    [class*="icon-"]:before{
+      display: none;
+    }
+
+    > li > a{
+      text-transform: uppercase;
+
+      &:hover,
+      &:focus{
+        background: #334d5c;
+      }
+    }
+
+    > .active > a, 
+    > .active > a:hover, 
+    > .active > a:focus{
+      background: #2c3f4b;
+    }
   }
 }
 
@@ -101,8 +128,8 @@ table thead{
 
   .option > div{
 
-    .option-title:hover h3{
-      color: $text-color;
+    .icon{
+      color: $brand-terciary;
     }
 
     .btn{
