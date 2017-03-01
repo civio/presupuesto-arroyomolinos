@@ -30,5 +30,6 @@ class ArroyomolinosPaymentsLoader(PaymentsLoader):
             'payee': payee,
             'anonymized': anonymized,
             'description': description,
-            'amount': self._read_spanish_number(line[7])
+            # The Excel files are inconsistent, in2csv renders different number formats (?!)
+            'amount': self._read_english_number(line[7]) if budget.year==2016 else self._read_spanish_number(line[7])
         }
