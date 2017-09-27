@@ -531,7 +531,10 @@ I,3,1,6,Tasas de actividades para la infancia
 I,3,1,7,Tasas de actividades culturales
 I,4,7,0,De empresas privadas
 I,5,2,0,Intereses de depósitos
+G,1,2,3,Personal funcionario
+G,1,4,0,Otro personal
 G,2,1,1,Otras reparaciones
 G,4,8,0,A familias e instituciones sin fines de lucro
 G,4,8,1,Premios
 G,6,1,1,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general
+G,7,8,0,A familias e instituciones sin fines de lucro

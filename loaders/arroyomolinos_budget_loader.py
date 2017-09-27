@@ -27,6 +27,8 @@ class ArroyomolinosBudgetLoader(SimpleBudgetLoader):
         }
         programme_mapping_2015 = {
             # old programme: new programme
+            '1651': '1650',
+            '2450': '2440',
             '3110': '3130',
         }
 

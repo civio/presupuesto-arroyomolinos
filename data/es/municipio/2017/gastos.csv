@@ -1,0 +1,739 @@
+#Org.,Prog.,Econ.,Denominación,,Vinc. Org.,Vinc. Fun.,Vinc. Eco.,Créditos Iniciales,Modificaciones de Crédito,Créditos Definitivos,Obligaciones Reconocidas
+,130,12001,Seguridad  y P. Civil. Sueldos del Grupo A2,,,130,1,3378.89,0,3378.89,0
+,130,12003,Seguridad  y P. Civil. Sueldos del Grupo C1,,,130,1,35666.31,-3756,31910.31,9983.82
+,130,12004,Seguridad  y P. Civil. Sueldos del Grupo C2,,,130,1,484691.49,-21912,462779.49,210713.1
+,130,12006,Seguridad  y P. Civil. Trienios,,,130,1,54039.16,0,54039.16,26912.98
+,130,12100,Seguridad  y P. Civil. Complemento de destino,,,130,1,288448.88,-20340.01,268108.87,116930.05
+,130,12101,Seguridad y P.Civil. Complemento específico,,,130,1,1550840.07,-104292.05,1446548.02,634960.41
+,130,12300,Seguridad  y P. Civil.Salarios de tramitación policía,,,130,1,0,120000,120000,96932.98
+,130,13100,Seguridad  y P. Civil Salario Base,,,130,1,15510.74,0,15510.74,2662.59
+,130,13102,Seguridad  y P. Civil Otras Remuneraciones,,,130,1,20811.95,0,20811.95,3246.33
+,130,13106,Seguridad  y P. Civil Trienios,,,130,1,748.55,0,748.55,248.05
+,130,15100,Seguridad  y P. Civil. Gratificaciones,,,130,15100,40000,120000,160000,47953.6
+,130,20400,Seguridad  y P. Civil. Alquiler de vehiculos,,,130,2,32161.8,2680.15,34841.95,21441.2
+,130,21300,Seguridad  y P. Civil. Mantenimiento equipos de transmisión,,,130,2,2000,0,2000,421.08
+,130,21301,"Seguridad  y P. Civil. Mantenimiento, maquinaria, instalacciones y utillaje",,,130,2,9000,0,9000,503.71
+,130,21303,Seguridad  y P. Civil. Mantenimiento aparatos elevadores,,,130,2,937.09,86.02,1023.11,744.13
+,130,21305,"Seguridad  y P. Civil..Mantenimiento equip.seg., vigilancia  y alarmas",,,130,2,33275,0,33275,13015.12
+,130,21400,Seguridad  y P. Civil. Mantenimiento y reparación de vehículos,,,130,2,15000,0,15000,4181.08
+,130,21500,Seguridad  y P. Civil. Mantenimiento mobiliario y enseres,,,130,2,2000,0,2000,0
+,130,21600,Seguridad  y P. Civil. Mantenimiento equipos para procesos de información,,,130,2,0,3398.64,3398.64,12174.44
+,130,22000,Seguridad  y P. Civil. Ordinario no inventariable,,,130,2,6000,0,6000,2838.95
+,130,22001,"Seguridad  y P. Civil. Prensa, revistas, libros y otras publicaciones",,,130,2,1000,0,1000,950.03
+,130,22100,Seguridad  y P. Civil. Energía eléctrica,,,130,2,41339.65,0,41339.65,11729.13
+,130,22101,Seguridad  y P. Civil..Agua,,,130,2,1600,0,1600,774.45
+,130,22103,Seguridad  y P. Civil. Combustibles y carburantes,,,130,2,10000,0,10000,0
+,130,22104,Seguridad  y P. Civil. Vestuario,,,130,2,25000,24141.92,49141.92,33805.11
+,130,22117,Seguridad  y P. Civil. Utillaje,,,130,2,5000,0,5000,0
+,130,22121,Seguridad  y P. Civil. Material prácticas de tiro,,,130,2,5000,0,5000,0
+,130,22199,Seguridad  y P. Civil. Otros suministros,,,130,2,4000,-761.09,3238.91,1863.04
+,130,22201,Seguridad  y P. Civil. Postales,,,130,2,2500,0,2500,0
+,130,22400,Seguridad  y P. Civil. Primas de seguros,,,130,2,5000,-4000,1000,207.66
+,130,22401,Seguridad  y P. Civil. Primes de seguros de vehículos,,,130,2,34000,0,34000,37367.37
+,130,22603,Seguridad  y P. Civil. Publicación en Diarios Oficiales,,,130,2,1000,0,1000,0
+,130,22610,Seguridad  y P. Civil. Festejos populares (Patrona G. Civil y Policía Local),,,130,2,1884.7,0,1884.7,600
+,130,22699,Seguridad  y P. Civil. Otros gastos diversos,,,130,2,2000,1427.8,3427.8,117.98
+,130,22703,Seguridad  y P. Civil. Tramitación de expedientes sancionadores,,,130,2,34255.1,25691.25,59946.35,42818.73
+,130,22715,Seguridad  y P. Civil. Limpieza en edificios,,,130,2,17521.65,1681.7,19203.35,9258.48
+,130,22755,Seguridad  y P. Civil. Servicio de Grua,,,130,2,14520,15821.19,30341.19,11370.81
+,130,60900,Seguridad  y P. Civil Instalacción de Semáforos,,,130,60900,8000,61200,69200,61200
+,130,62300,Seguridad  y P. Civil.Destructoras de papel,,,130,62300,0,761.09,761.09,761.09
+,130,63205,Seguridad  y P. Civil.Acondicionamiento Centro de Seguridad Vial,,,130,63205,0,30000,30000,6231.5
+,130,63506,Seguridad  y P. Civil.CAJA MANUAL DE COBRO PARKING C/POTRO,,,130,63506,0,3333,3333,3332.7
+,135,11000,Protección civil. Retribuciones básicas,,,135,1,0,30300.06,30300.06,14890.32
+,135,20601,Protección civil..Alquiler equipos para procesos información fotocopiadoras,,,135,2,0,0,0,382.35
+,135,21300,Protección civil. Mantenimiento equipos de transmisión,,,135,2,5000,0,5000,0
+,135,21301,"Protección civil. Mantenimiento, maquinaria, instalacciones y utillaje",,,135,2,2000,0,2000,0
+,135,21400,Protección civil. Mantenimiento y reparación de vehículos,,,135,2,5000,0,5000,0
+,135,22002,"Protección civil. Material, informático no inventariable",,,135,2,1000,0,1000,0
+,135,22103,Protección civil. Combustibles y carburantes,,,135,2,1000,0,1000,20
+,135,22104,Protección civil. Vestuario,,,135,2,5706,12979.67,18685.67,5475.25
+,135,22122,Protección civil. Material técnico sanitario primeros auxilios,,,135,2,5000,0,5000,0
+,135,22123,Protección civil. Material contra incendios,,,135,2,5000,8378.04,13378.04,0
+,135,22199,Protección civil. Otros suministros,,,135,2,1000,0,1000,68.93
+,135,22200,Protección civil. Servicios de Telecomunicaciones,,,135,2,1500,0,1500,272.25
+,135,22406,Protección civil. Seguros protección civil,,,135,2,6226.86,0,6226.86,3161.58
+,135,22699,Protección civil. Otros gastos diversos,,,135,2,278.91,0,278.91,100
+,135,22707,Protección civil. Formación protección civil,,,135,2,5000,0,5000,0
+,135,63321,Protección civil..Reparación aire acondicionado Protec.Civil,,,135,63321,0,9438,9438,9438
+,136,22501,Servicio de prevención y extinción de incendios. Tributos de las Comunidades Autónomas,,,136,2,871782.29,415296.29,1287078.58,851182.59
+,151,12000,Urbanismo. Sueldos del Grupo A1,,,151,1,31363.94,0,31363.94,14751.95
+,151,12001,Urbanismo. Sueldos del Grupo A2,,,151,1,54239.92,0,54239.92,26071.2
+,151,12003,Urbanismo. Sueldos del Grupo C1,,,151,1,71264.56,0,71264.56,24959.55
+,151,12004,Urbanismo. Sueldos del Grupo C2,,,151,1,50840.4,0,50840.4,20873.93
+,151,12006,Urbanismo. Trienios,,,151,1,25384.34,0,25384.34,12844.9
+,151,12100,Urbanismo. Complemento de destino,,,151,1,126086.24,0,126086.24,55115.76
+,151,12101,Urbanismo. Complemento específico,,,151,1,231392.21,0,231392.21,108537.9
+,151,13000,Urbanismo. Salario Base,,,151,1,7755.37,0,7755.37,3877.72
+,151,13002,Urbanismo. Otras remuneraciones,,,151,1,9455.56,0,9455.56,4727.87
+,151,13006,Urbanismo. Trienios,,,151,1,762.16,0,762.16,381.08
+,151,15100,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Gratificaciones",,,151,15100,2000,0,2000,104.16
+,151,20402,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..RENTING DOS AUTOBUSES",,,151,2,0,500000,500000,0
+,151,21300,Urbanismo: Mantenimiento equipos de transmisión (sonómetro),,,151,2,1000,0,1000,0
+,151,21301,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Mantenimiento, maquinaria, instalacciones y utillaje",,,151,2,0,0,0,0
+,151,21303,Urbanismo. Mantenimiento aparatos elevadores,,,151,2,788.77,74.12,862.89,519.68
+,151,21400,Urbanismo. Mantenimiento y reparación de vehículos,,,151,2,2000,0,2000,486.8
+,151,21600,Urbanismo: Mantenimiento equipos para procesos de información,,,151,2,5000,0,5000,641.48
+,151,22000,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Ordinario no inventariable",,,151,2,0,0,0,374.49
+,151,22001,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Prensa, revistas, libros y otras publicaciones",,,151,2,5000,0,5000,2558.4
+,151,22100,Urbanismo. Energía eléctrica,,,151,2,25000,0,25000,11730.97
+,151,22101,Urbanismo. Agua,,,151,2,4000,0,4000,1362.02
+,151,22199,Urbanismo. Otros suministros,,,151,2,8000,0,8000,12512.45
+,151,22400,Urbanismo. Primas de seguros,,,151,2,3200,0,3200,0
+,151,22401,Urbanismo. Primes de seguros de vehículos,,,151,2,3000,0,3000,1089.15
+,151,22699,Urbanismo. Otros gastos diversos,,,151,2,5000,0,5000,28342.67
+,151,22706,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Estudios y trabajos técnicos",,,151,2,147868.88,-60117.76,87751.12,0
+,151,22713,Urbanismo. Control de calidad,,,151,2,30000,0,30000,0
+,151,22715,Urbanismo: Limpieza en edificios,,,151,2,27683.92,2544.57,30228.49,17363.5
+,151,22716,Urbanismo: Servicio de mensajería,,,151,2,5000,0,5000,937.09
+,151,23101,Urbanismo:  Locomoción del personal,,,151,2,2000,0,2000,27.5
+,151,60902,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Aseos portátiles",,,151,60902,0,120000,120000,0
+,151,60908,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Nuevo parque rotonda de La Constitución",,,151,60908,0,150000,150000,0
+,151,61105,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Adecuación de  rotondas",,,151,61105,0,200000,200000,0
+,151,61108,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Remodelación bulevar",,,151,61108,0,665287.29,665287.29,423239.22
+,151,62211,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Punto limpio Ribera Guadarrama",,,151,62211,0,70000,70000,0
+,151,62500,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Mobiliario",,,151,62500,0,10000,10000,2077.86
+,151,63101,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Reasfaltado y atemperamiento de velocidad",,,151,63101,0,1750117.76,1750117.76,0
+,151,63102,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Reparación muro M 413",,,151,63102,0,80000,80000,0
+,151,63104,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Aparcamientos Correos, Dehesa, y Arenales",,,151,63104,0,150000,150000,11427.54
+,155,21002,Vias Públicas Mantenimeinto Infraestructuras Asfaltado,,,155,2,0,12726.84,12726.84,10237.22
+,160,22723,Alcantarillado.Limpieza alcantarillado,,,,,3155.68,0,3155.68,0
+,1621,22727,Recogida de residuos.Recogida de residuos,,,1621,2,1200000,281221.12,1481221.12,942520.39
+,1622,22736,Gestión de residuos sólidos urbanos.Mantenimiento punto limpio,,,1622,2,82248.48,6777.79,89026.27,54798.01
+,1623,22502,Tratamiento de residuos.Tributos de las Entidades locales,,,,,114000,0,114000,79266.45
+,163,22726,Limpieza viaria. Limpieza Viaria,,,163,2,1400000,323482.82,1723482.82,1099844.19
+,164,22718,Cementerio y servicios funerarios.Enterramientos,,,164,2,3224.88,4000,7224.88,5643.54
+,165,22112,"Alumbrado público.Suministros de material electrónico, eléctrico y de telecomunicaciones",,,165,2,21961.5,4496.44,26457.94,4656.24
+,165,22717,Alumbrado público.Mantenimiento instalacciones eléctricas,,,165,2,111936.11,0,111936.11,59360
+,1651,22773,RENOVACION INSTALACIONES ALUMBRADO EXTERIOR MPAL.Asesoramiento para redacción de pliegos,,,1651,2,0,8651.5,8651.5,3932.5
+,171,21101,Parques y jardines. Mantennimiento jardines (encomienda Emuvisa),,,171,2,1980941.19,146042.5,2126983.69,1301591.51
+,171,21106,Parques y jardines. Reparación rías P. Los Galayos y M. Cervantes,,,171,2,69650,0,69650,69186
+,171,21107,Parques y jardines. Adecuación parcela M2 El Rellano,,,171,2,99570,0,99570,74076.41
+,171,21108,Parques y jardines. Replantacion ZV.R2 Los Carrizos,,,171,2,38530,0,38530,12451.32
+,171,21109,Parques y jardines. Ajardinamiento 7 rotondas Av. Atlántico y Mediterráneo,,,171,2,70620,0,70620,0
+,171,21110,Parques y jardines. Limpieza y desbroce parcelas municipales,,,171,2,200688.81,0,200688.81,117068.49
+,171,21608,Parques y jardines. Gestión de Incidencias en el Equipamiento Urbano,,,171,2,3500,0,3500,0
+,171,22135,"Parques y jardines. Campaña ""Un niño, un arbol""",,,171,2,41000,0,41000,810.7
+,221,16000,Otras prestaciones económicas a favor de empleados. Seguridad Social,,,221,1,3116012.75,0,3116012.75,1361823.78
+,221,16108,Otras prestaciones económicas a favor de empleados. Indemnizaciones al personal por años de servicio en El Ayuntamiento,,,221,1,28750,0,28750,9900
+,221,16109,Otras prestaciones económicas a favor de empleados. Complemento Compensación I.L.T.,,,221,1,60000,56475,116475,56275
+,221,16200,Otras prestaciones económicas a favor de empleados. Formación y perfeccionamiento del personal,,,221,1,131265.78,10782,142047.78,31310.65
+,221,16203,Otras prestaciones económicas a favor de empleados. Ayuda de estudios,,,221,1,105012.62,16495.21,121507.83,10930.63
+,221,16204,Otras prestaciones económicas a favor de empleados. Acción social,,,221,1,171271.56,318935.63,490207.19,337752.19
+,221,16206,Otras prestaciones económicas a favor de empleados. Prevención de riesgos laborales,,,221,1,46800,14050,60850,37260.29
+,221,16207,Otras prestaciones económicas a favor de empleados. Reconocimientos y analíticas,,,221,1,14300,0,14300,5923.9
+,221,16208,Otras prestaciones económicas a favor de empleados. Plan de pensiones,,,221,1,175021.04,0,175021.04,0
+,221,16209,Otras prestaciones económicas a favor de empleados. Otros gastos sociales,,,221,1,7975,0,7975,0
+,231,12003,Asistencia social primaria. Sueldos del Grupo C1,,,231,1,1707.69,0,1707.69,0
+,231,12004,Asistencia social primaria. Sueldos del Grupo C2,,,231,1,25420.2,0,25420.2,8462.46
+,231,12006,Asistencia social primaria. Trienios,,,231,1,759.32,0,759.32,379.17
+,231,12100,Asistencia social primaria. Complemento de destino,,,231,1,14208.01,0,14208.01,4312.98
+,231,12101,Asistencia social primaria. Complemento específico,,,231,1,28544.69,0,28544.69,8678.04
+,231,13100,Asistencia social primaria. Salario Base,,,231,1,97041.85,0,97041.85,33483.31
+,231,13102,Asistencia social primaria. Otras Remuneraciones,,,231,1,155887,0,155887,57203.16
+,231,13106,Asistencia social primaria. Trienios,,,231,1,11140.35,0,11140.35,5198.68
+,231,15100,Asistencia social primaria. Gratificaciones,,,231,15100,3000,0,3000,0
+,231,21303,Asistencia social primaria. Mantenimiento aparatos elevadores,,,231,2,332.03,26.52,358.55,186.16
+,231,22000,Asistencia social primaria..Ordinario no inventariable,,,231,2,0,0,0,266.3
+,231,22636,Asistencia social primaria. Otros servicios de Bienestar Social,,,231,2,5000,0,5000,0
+,231,22715,Asistencia social primaria. Limpieza en edificios,,,231,2,3402.4,352.02,3754.42,2244.86
+,231,22757,Asistencia social primaria. Programa de Atención Domiciliaria,,,231,2,80300,0,80300,27270.02
+,231,22758,Asistencia social primaria. Programa de Promoción de la Autonomía,,,231,2,17942.27,0,17942.27,0
+,231,22759,Asistencia social primaria. Programa de Emergencia Social,,,231,2,58821.01,0,58821.01,34240
+,231,22760,Asistencia social primaria. Programa de Prevención  e Inserción Social,,,231,2,12757.65,0,12757.65,0
+,231,22761,Asistencia social primaria. Programa de Atención al Menor,,,231,2,40000,0,40000,0
+,231,22762,Asistencia social primaria. Programa de Teleasistencia,,,231,2,3000,0,3000,708.63
+,231,23101,Asistencia social primaria..Locomoción del personal,,,231,2,0,0,0,5.36
+,231,48000,Asistencia social primaria. Subvención Fundación AMAS SOCIAL,,,231,48000,1500,0,1500,0
+,231,48099,Asistencia social primaria. Otras subvenciones,,,231,48099,5000,0,5000,0
+,241,11000,Fomento del empleo. Retribuciones básicas,,,241,1,0,30300.06,30300.06,16036.29
+,241,12000,Fomento del empleo. Sueldos del Grupo A1,,,241,1,47045.91,-3759.69,43286.22,8842.53
+,241,12001,Fomento del empleo. Sueldos del Grupo A2,,,241,1,5500.89,0,5500.89,0
+,241,12003,Fomento del empleo. Sueldos del Grupo C1,,,241,1,10181.08,0,10181.08,0
+,241,12004,Fomento del empleo. Sueldos del Grupo C2,,,241,1,25420.2,0,25420.2,4231.23
+,241,12006,Fomento del empleo. Trienios,,,241,1,2500.51,0,2500.51,1143.03
+,241,12100,Fomento del empleo. Complemento de destino,,,241,1,60019.08,-6187.81,53831.27,7146.75
+,241,12101,Fomento del empleo. Complemento específico,,,241,1,104720.96,-8483.04,96237.92,17748.06
+,241,13000,Fomento del empleo. Retribuciones básicas,,,241,1,15510.74,0,15510.74,7718.51
+,241,13002,Fomento del empleo. Otras remuneraciones,,,241,1,18911.12,0,18911.12,9472.17
+,241,13006,Fomento del empleo. Trienios,,,241,1,1524.32,0,1524.32,759.44
+,241,13100,Fomento del empleo. Salario Base,,,241,1,89847.84,0,89847.84,35278.12
+,241,13102,Fomento del empleo. Otras Remuneraciones,,,241,1,124622.88,0,124622.88,63000.08
+,241,13106,Fomento del empleo. Trienios,,,241,1,1123.84,0,1123.84,472.66
+,241,14309,Fomento del empleo..Personal  Insercción Laboral,,,241,1,0,0,0,21785.7
+,241,15100,Fomento del empleo. Gratificaciones,,,241,15100,3000,18430.54,21430.54,231.25
+,241,20601,Fomento del empleo..Alquiler equipos para procesos información fotocopiadoras,,,241,2,0,235.1,235.1,1162.83
+,241,21301,"Fomento del empleo. Mantenimiento, maquinaria, instalacciones y utillaje",,,241,2,3000,0,3000,3024.34
+,241,21303,Fomento del empleo..Mantenimiento aparatos elevadores,,,241,2,0,0,0,0
+,241,22002,"Fomento del empleo..Material, informático no inventariable",,,241,2,0,0,0,527.56
+,241,22100,Fomento del empleo. Energía eléctrica,,,241,2,6000,0,6000,1820.15
+,241,22101,Fomento del empleo..Agua,,,241,2,500,0,500,0
+,241,22106,Fomento del empleo. Productos farmacéuticos y material sanitario,,,241,2,400,0,400,0
+,241,22126,Fomento del empleo..Suministros Cursos de Formación para el Empleo,,,241,2,10000,0,10000,0
+,241,22199,Fomento del empleo. Otros suministros,,,241,2,500,0,500,159.96
+,241,22402,Fomento del empleo. Primas de seguros empleo,,,241,2,6600,0,6600,889.68
+,241,22602,Fomento del empleo. Publicidad y propaganda,,,241,2,8800,7854.52,16654.52,373.16
+,241,22607,Fomento del empleo. Oposiciones y pruebas selectivas,,,241,2,20000,0,20000,7986
+,241,22630,Fomento del empleo. Promoción del Empleo,,,241,2,20000,-6700,13300,0
+,241,22646,Fomento del empleo..Otros gastos Cursos de Formación para el Empleo,,,241,2,15000,0,15000,0
+,241,22650,Fomento del empleo. Formacion personal trabajadores temporales de colaboracion social,,,241,2,4000,0,4000,0
+,241,22699,Fomento del empleo. Otros gastos diversos,,,241,2,2000,0,2000,2141.7
+,241,22715,Fomento del empleo. Limpieza en edificios,,,241,2,15132.26,0,15132.26,17130.86
+,241,22742,Fomento del empleo. Formación,,,241,2,6000,0,6000,0
+,241,23101,Fomento del empleo. Locomoción del personal,,,241,2,6000,0,6000,47.2
+,241,63208,Fomento del empleo..REFORMA BAÑOS EMPLEO,,,241,63208,0,6700,6700,5244.1
+,242,14302,PLAN EMPLEO JOVEN C.M. Profesorado Plan Empleo Joven C.M.,,,242,1,17300.93,0,17300.93,0
+,242,14303,PLAN EMPLEO JOVEN C.M. Jóvenes cualificados plan empleo joven C.M.,,,242,1,50000,0,50000,0
+,242,14304,PLAN EMPLEO JOVEN C.M. Apredices Plan Empleo Joven C.M.,,,242,1,140000,0,140000,0
+,242,22104,PLAN EMPLEO JOVEN C.M. Vestuario,,,242,2,11658.74,0,11658.74,0
+,242,22126,PLAN EMPLEO JOVEN C.M. Suministros Cursos de Formación para el Empleo,,,242,2,57000,0,57000,0
+,242,22199,PLAN EMPLEO JOVEN C.M. Otros suministros,,,242,2,11700,0,11700,0
+,242,22408,PLAN EMPLEO JOVEN C.M. Seguros para Cursos de Formación para el Empleo,,,242,2,500,0,500,0
+,243,14003,DESEMPLEADOS DE LARGA DURACIÓN (RDLD/0038/2016) Salarios,,,243,1,68796,0,68796,64214.05
+,243,22126,DESEMPLEADOS DE LARGA DURACIÓN (RDLD/0038/2016) Suministros Cursos de Formación para el Empleo,,,243,2,8000,0,8000,8000
+,244,14003,JOVENES DESEMPLEADOS L/d Salarios,,,244,1,63000,0,63000,48294.59
+,244,22126,JOVENES DESEMPLEADOS L/d Suministros Cursos de Formación para el Empleo,,,244,2,27000,0,27000,21500.4
+,245,14003,JOVENES DESEMPLEADOS L/D (GJADLD/0020/2016) Salarios,,,245,1,23587.2,0,23587.2,19465.34
+,245,22126,JOVENES DESEMPLEADOS L/D (GJADLD/0020/2016) Suministros Cursos de Formación para el Empleo,,,245,2,2400,0,2400,2400
+,246,14003,JOVENES DESEMPLEADOS LARGA DURACION GJCDLD/0020/2017.Salarios,,,246,1,0,63000,63000,0
+,246,22126,JOVENES DESEMPLEADOS LARGA DURACION GJCDLD/0020/2017.Suministros Cursos de Formación para el Empleo,,,246,2,0,28800,28800,0
+,247,14003,JOVENES DESEMPLEADOS L/D GJADLD/0025/2017.Salarios,,,247,1,0,50954.4,50954.4,0
+,247,22126,JOVENES DESEMPLEADOS L/D GJADLD/0025/2017.Suministros Cursos de Formación para el Empleo,,,247,2,0,4800,4800,0
+,249,14003,REACTIVACION PROFESIONAL L/D MAYORES 30 AÑOS RDLD/0036/2017.Salarios,,,249,1,0,65816.1,65816.1,0
+,249,22126,REACTIVACION PROFESIONAL L/D MAYORES 30 AÑOS RDLD/0036/2017.Suministros Cursos de Formación para el Empleo,,,249,2,0,8000,8000,0
+,311,22711,Protección de la salubridad pública Recogida y control de animales,,,311,2,75000,50000,125000,27549.44
+,313,12004,Acciones Públicas relativas a la Salud Sueldos del Grupo C2,,,313,1,8473.4,0,8473.4,0
+,313,12100,Acciones Públicas relativas a la Salud Complemento de destino,,,313,1,4312.84,0,4312.84,0
+,313,12101,Acciones Públicas relativas a la Salud Complemento específico,,,313,1,8678,0,8678,0
+,313,22400,Acciones Públicas relativas a la Salud Primas de seguros,,,313,2,4066.77,0,4066.77,1258.4
+,313,22712,Acciones Públicas relativas a la Salud Controles higiénico sanitarios,,,313,2,1800,813.12,2613.12,638.88
+,320,12003,Administración general de educación. Sueldos del Grupo C1,,,320,1,1707,0,1707,2949.5
+,320,12004,Educación. Sueldos del Grupo C2,,,320,1,16946.8,0,16946.8,9223.14
+,320,12006,Educación. Trienios,,,320,1,1012.42,0,1012.42,505.56
+,320,12100,Educación. Complemento de destino,,,320,1,9895.17,0,9895.17,4947.67
+,320,12101,Educación. Complemento específico,,,320,1,19866.69,0,19866.69,9933.35
+,320,13000,Educación. Salario Base,,,320,1,7755.37,0,7755.37,3877.72
+,320,13002,Educación. Otras remuneraciones,,,320,1,13766.3,0,13766.3,7506.61
+,320,13006,Educación. Trienios,,,320,1,1660.42,0,1660.42,802.99
+,320,13100,Educación. Salario Base,,,320,1,156023.04,-27119.96,128903.08,62912.21
+,320,13102,Educación. Otras Remuneraciones,,,320,1,111886.72,-46697.36,65189.36,30616.84
+,320,13106,Educación. Trienios,,,320,1,5540.44,0,5540.44,2712.69
+,320,15100,Educación. Gratificaciones,,,320,15100,5000,0,5000,3244.81
+,320,20601,Administración general de educación..Alquiler equipos para procesos información fotocopiadoras,,,320,2,0,0,0,659.26
+,320,21206,Educación..Reparación e instalación en colegios,,,320,2,150000,73817.32,223817.32,1077.44
+,320,21301,"Educación. Mant. maquinaria, instal. y utillaje",,,320,2,76255,0,76255,4792.06
+,320,21303,Educación. Mant. aparatos elevadores,,,320,2,4250.62,392.87,4643.49,2615.55
+,320,22000,Educación. Ordinario no inventariable,,,320,2,1000,0,1000,11.91
+,320,22002,"Educación. Material, informático no inventariable",,,320,2,1000,0,1000,0
+,320,22100,Educación. Energía eléctrica,,,320,2,125000,0,125000,67554.87
+,320,22101,Educación. Agua,,,320,2,40000,0,40000,16643.91
+,320,22103,Educación. Combustibles y carburantes,,,320,2,80000,0,80000,39876.32
+,320,22199,Educación. Otros suministros,,,320,2,5000,0,5000,3377.71
+,320,22400,Educación. Primas de seguros,,,320,2,40821.37,0,40821.37,2812.68
+,320,22611,Educación. Taller de cultura enseñanza,,,320,2,10000,0,10000,0
+,320,22639,Educación. Campañas Escolares,,,320,2,10000,0,10000,0
+,320,22699,Educación. Otros gastos diversos,,,320,2,6000,0,6000,7940.67
+,320,22715,Educación. Limpieza en edificios,,,320,2,315954.72,37305.93,353260.65,204305.43
+,320,22751,Educación.Iluminación y sonido,,,320,2,0,3747.13,3747.13,1998.92
+,320,22772,Educación. Educación en valores a través del Deporte Alternativo,,,320,2,70785,0,70785,0
+,320,23101,Educación.Locomoción del personal,,,320,2,0,0,0,46.94
+,320,48001,Educación. AMPA IES Secundaria,,,320,48001,7500,0,7500,0
+,320,48002,Educación. AMPA Colegio público Las Castañeras,,,320,48002,7500,2313.45,9813.45,2313.45
+,320,48003,Educación. Plan Local Mejora y Extensión Servicios Educativos,,,320,48003,42000,13984.13,55984.13,13984.13
+,320,48004,Educación. AMPA Colegio público Fco. de Orellana,,,320,48004,7500,0,7500,0
+,320,48005,Educación. AMPA Colegio público Legazpi,,,320,48005,7500,0,7500,0
+,320,48006,Educación. AMPA Colegio público el Torreón,,,320,48006,7500,0,7500,0
+,320,48017,Educación..AMPA Colegio Los Arenales,,,320,48017,7500,330.45,7830.45,330.45
+,320,48019,Educación. AMPA IES  Gonzalo Chacon,,,320,48019,7500,0,7500,0
+,320,48021,Educación. AMPA Colegio Pasteur,,,320,48021,7500,0,7500,0
+,320,48024,Educación. Subvención  Asociación Scoutt,,,320,48024,2000,0,2000,0
+,320,48026,Educación. Subvenciones Ayudas para Libros,,,320,48026,30000,29700,59700,20487.62
+,320,48039,Educación. AMPA CEIP Averroes,,,320,48039,2000,0,2000,0
+,320,48040,Educación. Subvención educación para el desarrollo,,,320,48040,28000,0,28000,0
+,320,48101,Educación..Premios concursos y certámenes escolares,,,320,48101,908.23,0,908.23,687.28
+,330,11000,Cultura. Retribuciones básicas,,,330,1,0,30300.06,30300.06,14890.32
+,330,12001,Cultura. Sueldos del Grupo A2,,,330,1,13559.58,0,13559.58,0
+,330,12003,Cultura. Sueldos del Grupo C1,,,330,1,3415.38,0,3415.38,0
+,330,12004,Cultura. Sueldos del Grupo C2,,,330,1,25420.2,0,25420.2,8043.24
+,330,12006,Cultura. Trienios,,,330,1,1012.42,0,1012.42,814.99
+,330,12100,Cultura. Complemento de destino,,,330,1,25985.22,0,25985.22,4398.71
+,330,12101,Cultura. Complemento específico,,,330,1,44531.5,0,44531.5,8315.35
+,330,13000,Cultura. Salario Base,,,330,1,14686.86,0,14686.86,7997.03
+,330,13002,Cultura. Otras remuneraciones,,,330,1,12990.84,0,12990.84,6495.51
+,330,13006,Cultura. Trienios,,,330,1,887.32,0,887.32,793.35
+,330,13100,Cultura. Salario Base,,,330,1,8473.4,0,8473.4,10269.04
+,330,13102,Cultura. Otras Remuneraciones,,,330,1,22378.57,0,22378.57,21784.3
+,330,13106,Cultura. Trienios,,,330,1,759.32,0,759.32,379.17
+,330,15100,Cultura. Gratificaciones,,,330,15100,3000,0,3000,2473.8
+,330,20300,"Cultura. Arrend.de maquinaria, instal.y utillaje",,,330,2,1000,0,1000,0
+,330,20601,Administración General de Cultura..Alquiler equipos para procesos información fotocopiadoras,,,330,2,0,90.75,90.75,726
+,330,20608,Cultura. Arrendamiento Sistema Venta de Entradas,,,330,2,5287.17,4538.75,9825.92,1115.16
+,330,21301,"Cultura. Mant. maquinaria, instal. y utillaje",,,330,2,8000,0,8000,4871.21
+,330,21303,Cultura. Mant. aparatos elevadores,,,330,2,6618.6,608.79,7227.39,4272.51
+,330,22100,Cultura. Energía eléctrica,,,330,2,115000,0,115000,91618.28
+,330,22101,Cultura. Agua,,,330,2,6000,0,6000,4588.34
+,330,22103,Cultura. Combustibles y carburantes,,,330,2,30000,0,30000,18923.97
+,330,22104,Cultura Vestuario,,,330,2,3000,0,3000,0
+,330,22139,Administración General de Cultura..CORTINAS Y ESTORES AULAS DE CULTURA,,,330,2,0,3500,3500,719.56
+,330,22199,Cultura. Otros suministros,,,330,2,2500,-179.76,2320.24,1317.88
+,330,22400,Cultura. Primas de seguros,,,330,2,3000,0,3000,797.34
+,330,22602,Cultura. Publicidad y propaganda,,,330,2,8125.54,3150.73,11276.27,1827.1
+,330,22609,Cultura. Actividades culturales,,,330,2,100000,69989.2,169989.2,54531.82
+,330,22611,Cultura. Taller de cultura enseñanza,,,330,2,40000,0,40000,0
+,330,22644,Cultura.SGAE Actuaciones Culturales,,,330,2,8000,0,8000,2785.78
+,330,22699,Cultura. Otros gastos diversos,,,330,2,7000,-3503.43,3496.57,590.42
+,330,22715,Cultura. Limpieza en edificios,,,330,2,42124.94,6410.18,48535.12,25992.02
+,330,22728,Cultura. Escuela de Música,,,330,2,154098,0,154098,97579
+,330,22729,Cultura. Transporte actividades,,,330,2,4400,1898.6,6298.6,3709.2
+,330,23101,Cultura Locomoción del personal,,,330,2,500,0,500,0
+,330,48007,Cultura. Subvención taller de teatro,,,330,48007,4000,3493.22,7493.22,6293.22
+,330,48008,Cultura. Subvención Coral arroyomolinos,,,330,48008,7000,550,7550,5036.33
+,330,48033,Cultura. Subvención Agrupaciones Musicales,,,330,48033,30000,0,30000,21000
+,330,48036,Cultura. Subvención taller de pintura,,,330,48036,7000,0,7000,0
+,330,62210,Administración General de Cultura..Instalación suelo laminado Aula S-1 C.de las Artes,,,330,62210,0,3503.43,3503.43,3503.43
+,330,62308,Administración General de Cultura..Cámaras de vigilacia,,,330,62308,0,5560.1,5560.1,5560.1
+,330,62310,Administración General de Cultura..Equipos de sonido,,,330,62310,0,3000,3000,1944.8
+,330,62315,Administración General de Cultura..Sonorización del teatro,,,330,62315,0,59500,59500,20774.96
+,330,62500,Administración General de Cultura..Mobiliario,,,330,62500,0,1757.8,1757.8,1757.8
+,330,62502,Administración General de Cultura..Instumentos  musicales,,,330,62502,0,21577,21577,0
+,330,63300,Administración General de Cultura..Reposición microfonia,,,330,63300,0,24000,24000,0
+,330,63302,Administración General de Cultura..Reposición utillaje Cultura,,,330,63302,0,9527.08,9527.08,8742.25
+,330,63313,Administración General de Cultura..Iluminación sala de exposiciones,,,330,63313,0,11500,11500,4235
+,330,63317,Administración General de Cultura..ADECUACIÓN ASCENSORES C.DE LAS ARTES,,,330,63317,0,7900,7900,0
+,330,63504,Administración General de Cultura..Reposición Expositores,,,330,63504,0,3900,3900,0
+,3321,12001,Bibliotecas públicas Sueldos del Grupo A2,,,3321,1,13559.98,0,13559.98,6517.8
+,3321,12003,Bibliotecas públicas Sueldos del Grupo C1,,,3321,1,40724.32,-5090.54,35633.78,14450.42
+,3321,12004,Bibliotecas públicas Sueldos del Grupo C2,,,3321,1,25420.2,0,25420.2,8462.46
+,3321,12006,Bibliotecas públicas Trienios,,,3321,1,6781.41,0,6781.41,3271.57
+,3321,12100,Bibliotecas públicas Complemento de destino,,,3321,1,45140.39,-4947.58,40192.81,17334.82
+,3321,12101,Bibliotecas públicas Complemento específico,,,3321,1,84264.93,-2170.05,82094.88,31747.48
+,3321,13000,Bibliotecas públicas Retribuciones básicas,,,3321,1,7755.37,0,7755.37,4384.55
+,3321,13002,Bibliotecas públicas Otras remuneraciones,,,3321,1,9455.56,0,9455.56,6495.51
+,3321,13006,Bibliotecas públicas Trienios,,,3321,1,925.06,0,925.06,476.35
+,3321,13100,Bibliotecas públicas Salario Base,,,3321,1,8473.4,0,8473.4,251.42
+,3321,13102,Bibliotecas públicas Otras Remuneraciones,,,3321,1,12990.84,0,12990.84,404.44
+,3321,21202,Bibliotecas públicas Reparaciones y mantenimientos,,,3321,2,6000,0,6000,457.68
+,3321,21602,Bibliotecas públicas Mantenimiento Sistema integrado Biblioteca,,,3321,2,13500,0,13500,5382.81
+,3321,22000,Bibliotecas públicas Ordinario no inventariable,,,3321,2,6000,0,6000,172.42
+,3321,22001,"Bibliotecas públicas Prensa, revistas, libros y otras publicaciones",,,3321,2,4000,0,4000,1670.82
+,3321,22100,Bibliotecas públicas Energía eléctrica,,,3321,2,6000,0,6000,0
+,3321,22103,Bibliotecas públicas Combustibles y carburantes,,,3321,2,4000,0,4000,0
+,3321,22136,Bibliotecas públicas Libro impreso,,,3321,2,12120,0,12120,2023.9
+,3321,22137,"Bibliotecas públicas CD's, DV's, SONOROS, etc",,,3321,2,3880,0,3880,0
+,3321,22735,Bibliotecas públicas Fiestas y eventos populares municipales,,,3321,2,6000,0,6000,2909.5
+,3321,22749,Bibliotecas públicas Catalogación libros de la Biblioteca,,,3321,2,10000,0,10000,0
+,3321,23101,Bibliotecas públicas.Locomoción del personal,,,3321,2,0,0,0,111.6
+,3321,48102,Bibliotecas públicas Premios y certámenes biblioteca,,,3321,48102,3000,0,3000,250
+,3321,62213,Bibliotecas públicas.Acondicionamiento Biblioteca,,,3321,62213,0,60000,60000,0
+,3322,12003,Archivos. Sueldos del Grupo C1,,,3322,1,20362.16,0,20362.16,4991.91
+,3322,12004,Archivos. Sueldos del Grupo C2,,,3322,1,16946.8,0,16946.8,4231.23
+,3322,12006,Archivos. Trienios,,,3322,1,1875.69,0,1875.69,477.35
+,3322,12100,Archivos. Complemento de destino,,,3322,1,19790.34,0,19790.34,4947.67
+,3322,12101,Archivos. Complemento específico,,,3322,1,39733.4,0,39733.4,9933.35
+,3322,13000,Archivos. Retribuciones básicas,,,3322,1,10181.08,0,10181.08,0
+,3322,13002,Archivos. Otras remuneraciones,,,3322,1,16771.03,0,16771.03,0
+,3322,13006,Archivos. Trienios,,,3322,1,885.88,0,885.88,0
+,3322,13100,Archivos..Salario Base. Laboral temporal,,,3322,1,0,0,0,4991.91
+,3322,13102,Archivos..Otras Remuneraciones. Laboral temporal,,,3322,1,0,0,0,8385.51
+,3322,13106,Archivos..Trienios. Laboral temporal,,,3322,1,0,0,0,561.61
+,3322,21600,Archivos. Mantenimiento equipos para procesos de información,,,3322,2,5000,0,5000,665.5
+,3322,21601,Archivos. Mantenimiento Sistema Integrado Archivo,,,3322,2,5000,0,5000,0
+,3341,11000,Infancia y Juventud Retribuciones básicas,,,3341,1,0,30300.06,30300.06,14890.32
+,3341,13000,Infancia y Juventud.Retribuciones básicas,,,3341,1,8473.4,0,8473.4,4231.23
+,3341,13002,Infancia y Juventud.Otras remuneraciones,,,3341,1,16668.23,0,16668.23,6495.51
+,3341,13006,Infancia y Juventud.Trienios,,,3341,1,1265.53,0,1265.53,631.95
+,3341,13100,Infancia y Juventud.Salario Base,,,3341,1,100877.9,-8475.28,92402.62,34298.55
+,3341,13102,Infancia y Juventud.Otras Remuneraciones,,,3341,1,137470.77,-16225.21,121245.56,43398.01
+,3341,13106,Infancia y Juventud.Trienios,,,3341,1,4591.95,0,4591.95,1797.2
+,3341,15100,Infancia y Juventud.Gratificaciones,,,3341,15100,10000,0,10000,3857.16
+,3341,20301,Infancia y Juventud Alquiler Material Actividades Recreativas,,,3341,2,15000,0,15000,12584
+,3341,21301,"Infancia y Juventud.Mantenimiento, maquinaria, instalacciones y utillaje",,,3341,2,6000,0,6000,6800.97
+,3341,21303,Infancia y Juventud Mantenimiento aparatos elevadores,,,3341,2,788.77,74.12,862.89,519.68
+,3341,22100,Infancia y Juventud.Energía eléctrica,,,3341,2,15000,0,15000,1305.39
+,3341,22101,Infancia y Juventud Agua,,,3341,2,15000,0,15000,0
+,3341,22199,Infancia y Juventud.Otros suministros,,,3341,2,5000,0,5000,197.47
+,3341,22400,Infancia y Juventud.Primas de seguros,,,3341,2,15000,0,15000,1896.97
+,3341,22602,Infancia y Juventud.Publicidad y propaganda,,,3341,2,5000,2122.73,7122.73,1501.45
+,3341,22617,Infancia y Juventud Viajes juventud,,,3341,2,32000,0,32000,0
+,3341,22619,Infancia y Juventud.Gastos varios infancia,,,3341,2,15000,4950,19950,7240.63
+,3341,22621,Infancia y Juventud.Gastos diversos juventud,,,3341,2,15000,0,15000,3832
+,3341,22627,Infancia y Juventud.Campamentos de verano,,,3341,2,50000,0,50000,48400
+,3341,22658,Infancia y Juventud Viajes en familia,,,3341,2,15000,0,15000,0
+,3341,22660,Infancia y Juventud Arrockyo en vivo,,,3341,2,40000,0,40000,38357
+,3341,22661,Infancia y Juventud Evento Halloween,,,3341,2,5000,0,5000,0
+,3341,22662,Infancia y Juventud Jornadas conmemorativas,,,3341,2,10000,0,10000,9438
+,3341,22667,Infancia y Juventud.Espectáculo Rocksinfonía Jesucristo Superstar,,,3341,2,0,0,0,0
+,3341,22699,Infancia y Juventud.Otros gastos diversos,,,3341,2,15000,0,15000,20381.06
+,3341,22715,Infancia y Juventud.Limpieza en edificios,,,3341,2,25765.74,0,25765.74,14966.4
+,3341,22729,Infancia y Juventud Transporte actividades,,,3341,2,13002.28,3915.1,16917.38,6219.4
+,3341,23101,Infancia y Juventud.Locomoción del personal,,,3341,2,0,0,0,102.08
+,3341,48037,Infancia y Juventud Subvención programa infancia colectivos,,,3341,48037,10000,0,10000,0
+,3341,63204,Infancia y Juventud.Acondicionamiento Casa de la Juventud,,,3341,63204,0,199577.53,199577.53,100873.29
+,3342,11000,Tercera Edad.Retribuciones básicas,,,3342,1,0,30300.06,30300.06,14890.32
+,3342,12004,Tercera Edad Sueldos del Grupo C2,,,3342,1,8473.4,0,8473.4,4231.23
+,3342,12006,Tercera Edad Trienios,,,3342,1,759.32,0,759.32,379.17
+,3342,12100,Tercera Edad Complemento de destino,,,3342,1,4312.84,0,4312.84,2156.49
+,3342,12101,Tercera Edad Complemento específico,,,3342,1,8678,0,8678,4339.02
+,3342,13000,Tercera Edad.Retribuciones básicas,,,3342,1,23512.42,0,23512.42,11756.22
+,3342,13002,Tercera Edad.Otras remuneraciones,,,3342,1,9455.56,0,9455.56,4727.87
+,3342,13006,Tercera Edad.Trienios,,,3342,1,1539.08,0,1539.08,760.25
+,3342,13100,Tercera Edad.Salario Base,,,3342,1,8473.4,0,8473.4,0
+,3342,13102,Tercera Edad.Otras Remuneraciones,,,3342,1,11115.58,0,11115.58,614.2
+,3342,15100,Tercera Edad Gratificaciones,,,3342,15100,3000,0,3000,611.94
+,3342,21000,Tercera Edad Mantenimiento y conservación de infraestructuras,,,3342,2,300,0,300,0
+,3342,21301,"Tercera Edad.Mantenimiento, maquinaria, instalacciones y utillaje",,,3342,2,5000,0,5000,934.38
+,3342,21303,Tercera Edad Mantenimiento aparatos elevadores,,,3342,2,287,0,287,0
+,3342,22001,"Tercera Edad Prensa, revistas, libros y otras publicaciones",,,3342,2,1000,0,1000,95
+,3342,22100,Tercera Edad.Energía eléctrica,,,3342,2,30000,0,30000,11729.14
+,3342,22101,Tercera Edad.Agua,,,3342,2,1500,0,1500,774.43
+,3342,22104,Tercera Edad Vestuario,,,3342,2,200,0,200,200
+,3342,22125,Tercera Edad.Peluquería 3º edad.,,,3342,2,4000,0,4000,590.51
+,3342,22138,Tercera Edad Pintura edificio,,,3342,2,5000,-978.97,4021.03,1376.64
+,3342,22199,Tercera Edad.Otros suministros,,,3342,2,3500,0,3500,110.74
+,3342,22400,Tercera Edad.Primas de seguros,,,3342,2,1500,0,1500,0
+,3342,22602,Tercera Edad Publicidad y propaganda,,,3342,2,4000,2762.35,6762.35,960.01
+,3342,22623,Tercera Edad.Gastos culturales tercera edad,,,3342,2,5000,0,5000,1908
+,3342,22624,Tercera Edad.Viajes tercera edad,,,3342,2,20000,0,20000,0
+,3342,22637,Tercera Edad.Excursiones tercera edad,,,3342,2,5000,0,5000,2538
+,3342,22699,Tercera Edad.Otros gastos diversos,,,3342,2,5000,0,5000,1906.6
+,3342,22715,Tercera Edad.Limpieza en edificios,,,3342,2,18308.15,2010.84,20318.99,12067.64
+,3342,22729,Tercera Edad Transporte actividades,,,3342,2,2000,1358.7,3358.7,2551.49
+,3342,23101,Tercera Edad Locomoción del personal,,,3342,2,200,0,200,0
+,3342,48038,Tercera Edad Subvención ASPENTIA,,,3342,48038,2000,0,2000,0
+,3342,62209,Tercera Edad.Acodicionamiento Concejalia,,,3342,62209,0,32000,32000,29159.08
+,3342,62504,Tercera Edad.Mobiliario Tercera edad,,,3342,62504,0,13000,13000,10826.16
+,3342,62508,"Tercera Edad.Mobilliario, Enseres y Equipamiento",,,3342,62508,0,3978.97,3978.97,3978.97
+,3342,63314,Tercera Edad.REPOSICIÓN COMPRESOS CALEFACCIÓN EDIF. 3ª EDAD,,,3342,63314,0,9965.62,9965.62,9965.62
+,3343,12004,Mujer.Sueldos del Grupo C2,,,3343,1,8473.4,0,8473.4,3949.01
+,3343,12006,Mujer.Trienios,,,3343,1,1139.04,0,1139.04,541.55
+,3343,12100,Mujer.Complemento de destino,,,3343,1,4312.84,0,4312.84,2012.64
+,3343,12101,Mujer.Complemento específico,,,3343,1,8678,0,8678,4049.64
+,3343,22602,Mujer.Publicidad y propaganda,,,3343,2,5000,4421.91,9421.91,4801.76
+,3343,22606,"Mujer Reuniones, conferencias y cursos",,,3343,2,15000,0,15000,0
+,3343,22618,Mujer.Area de Mujer,,,3343,2,10000,0,10000,1212.5
+,3343,22653,Mujer Plan de Igualdal y Violencia de Género,,,3343,2,10000,0,10000,10702.76
+,3343,22699,Mujer.Otros gastos diversos,,,3343,2,1500,0,1500,0
+,3343,22729,Mujer Transporte actividades,,,3343,2,1200,936.1,2136.1,0
+,3343,22751,Mujer.Iluminación y sonido,,,3343,2,6000,2855.6,8855.6,571.12
+,3343,48022,Mujer Subvención AMIA,,,3343,48022,2000,0,2000,0
+,3343,48023,Mujer Subvención AMAR,,,3343,48023,2000,0,2000,0
+,338,22400,Fiestas populares y festejos. Primas de seguros,,,338,2,3000,0,3000,1132.14
+,338,22644,Fiestas populares y festejos. SGAE Actuaciones Culturales,,,338,2,5000,0,5000,0
+,338,22699,Fiestas populares y festejos..Otros gastos diversos,,,338,2,0,0,0,0
+,338,22735,Fiestas populares y festejos. Fiestas y eventos populares municipales,,,338,2,295000,0,295000,271869
+,338,48015,Fiestas populares y festejos. Plan de -subvenciones Locales (Participación Ciudadana,,,338,4,20510,0,20510,17398.24
+,338,62304,Fiestas populares y festejos..Escenario tipo LAYHER,,,338,62304,0,18000,18000,17972.58
+,340,11000,Deportes. Retribuciones básicas,,,340,1,0,30300.06,30300.06,14890.32
+,340,12001,Deportes. Sueldos del Grupo A2,,,340,1,13559.98,0,13559.98,0
+,340,12003,Deportes. Sueldos del Grupo C1,,,340,1,22069.85,0,22069.85,4986.62
+,340,12004,Deportes. Sueldos del Grupo C2,,,340,1,25420.2,0,25420.2,7199.26
+,340,12006,Deportes. Trienios,,,340,1,2447.87,0,2447.87,1062.95
+,340,12100,Deportes. Complemento de destino,,,340,1,35245.22,0,35245.22,6457.83
+,340,12101,Deportes. Complemento específico,,,340,1,71904.79,0,71904.79,16164.54
+,340,13000,Deportes. Salario Base,,,340,1,65017.18,0,65017.18,15818.06
+,340,13002,Deportes. Otras remuneraciones,,,340,1,75845.75,0,75845.75,37095.67
+,340,13003,"Administración General de Deportes..Indemnizaciones, salarios de tramitación",,,340,1,0,0,0,22681.07
+,340,13006,Deportes. Trienios,,,340,1,4405.6,0,4405.6,1988.54
+,340,13100,Deportes. Salario Base,,,340,1,169851.85,0,169851.85,101526.14
+,340,13102,Deportes. Otras Remuneraciones,,,340,1,198978.57,0,198978.57,92784.89
+,340,13106,Deportes. Trienios,,,340,1,4815.02,0,4815.02,2681.95
+,340,15100,Deportes. Gratificaciones,,,340,15100,3000,0,3000,592
+,340,20300,"Deportes. Arrendamiento de maquinaria, instalacciones y utillaje",,,340,2,1000,0,1000,0
+,340,20305,Deportes. Arrendamiento máquinas deportivas,,,340,2,25000,0,25000,0
+,340,21102,Deportes. Otras reparaciones y mantenimientos,,,340,2,2000,-592.9,1407.1,63.54
+,340,21103,Deportes..Mantenimiento Campos de futbol,,,340,2,4797.65,0,4797.65,629.2
+,340,21201,Deportes. Mant. de edificios y otras construcciones,,,340,2,3000,-123.27,2876.73,0
+,340,21202,Deportes. Reparaciones y mantenimientos,,,340,2,2000,0,2000,3616.48
+,340,21211,Deportes. Reparaciones diversas polideportivos,,,340,2,9111.67,-3415.9,5695.77,181.23
+,340,21301,"Deportes. Mant, maquinaria, instal.  y utillaje",,,340,2,12000,0,12000,26624.3
+,340,21303,Deportes. Mant. aparatos elevadores,,,340,2,813.35,74.12,887.47,519.68
+,340,21501,Deportes. Mantenimiento canastas polideportivos,,,340,2,3000,0,3000,1603.25
+,340,21600,Deportes. Mant. equipos para procesos de información,,,340,2,3000,0,3000,3283.94
+,340,22000,Administración General de Deportes..Ordinario no inventariable,,,340,2,0,0,0,1182.51
+,340,22100,Deportes. Energía eléctrica,,,340,2,130000,0,130000,52854.88
+,340,22101,Deportes. Agua,,,340,2,45000,0,45000,19963.48
+,340,22103,Deportes..Combustibles y carburantes,,,340,2,10000,0,10000,12501.37
+,340,22104,Deportes. Vestuario,,,340,2,25000,22768.27,47768.27,28014.2
+,340,22106,Deportes. Productos farmacéuticos y material sanitario,,,340,2,3000,0,3000,0
+,340,22107,Deportes. Material suministros y otros deportes,,,340,2,20000,4309.26,24309.26,8843.82
+,340,22128,Deportes. Suministro de material de ferreteria,,,340,2,8206.54,0,8206.54,641.31
+,340,22132,Deportes..Suministro Trofeos Deportivos,,,340,2,10000,10378.9,20378.9,8557.56
+,340,22199,Deportes. Otros suministros,,,340,2,1500,0,1500,2270.22
+,340,22400,Deportes. Primas de seguros,,,340,2,19000,0,19000,6638.33
+,340,22401,Administración General de Deportes..Primas de seguros de vehículos,,,340,2,0,0,0,800
+,340,22404,Deportes. Seguro actividades deportivas,,,340,2,13500,0,13500,3573.99
+,340,22602,Deportes..Publicidad y propaganda,,,340,2,15000,8898.66,23898.66,2877.86
+,340,22613,Deportes. Inscripción de equipos,,,340,2,15000,0,15000,0
+,340,22614,Deportes..Festejos deportivos,,,340,2,5000,0,5000,2480.02
+,340,22645,Deportes. Gala del deporte,,,340,2,5000,0,5000,0
+,340,22656,Deportes..Gastos Federativos Baloncesto,,,340,2,15000,0,15000,6657.96
+,340,22699,Deportes. Otros gastos diversos,,,340,2,10000,439.75,10439.75,5839.4
+,340,22715,Deportes. Limpieza en edificios,,,340,2,132522.1,10983.9,143506,73458.1
+,340,22729,Deportes. Transporte actividades,,,340,2,75000,18013.57,93013.57,63268.83
+,340,22730,Deportes. Reconocimiento médico,,,340,2,5000,0,5000,2342.7
+,340,22731,Deportes. Mantenimiento piscina municipal,,,340,2,28072,0,28072,11537.48
+,340,22732,"Deportes. Arbitrajes  ligas municipales, rankings, torneos y eventos municipales",,,340,2,37973.09,-1273.32,36699.77,8704.9
+,340,22733,Deportes. Empresas deportivas,,,340,2,8000,5102.67,13102.67,8797.5
+,340,22763,Deportes..Vigilancia Polideportivos,,,340,2,15000,-14810,190,0
+,340,22772,Deportes. Educación en valores a través del Deporte Alternativo,,,340,2,30000,0,30000,0
+,340,23101,Deportes..Locomoción del personal,,,340,2,1000,0,1000,287.7
+,340,48009,Deportes..Subvenciones uniones deportivas,,,340,48009,8000,7500,15500,2500
+,340,48010,Deportes. Unión Deportiva Arroyomolinos,,,340,48010,15500,0,15500,8000
+,340,48011,Deportes. Club Deportivo BTT Arroyomolinos,,,340,48011,11500,0,11500,5000
+,340,48012,Deportes. Club Deportivo Elemental Baloncesto Arroyomolinos,,,340,48012,43000,0,43000,29798.11
+,340,48013,Deportes. Club Atletismo de Arroyomolinos,,,340,48013,37000,0,37000,15683.04
+,340,48027,Deportes. Subvencion Club Deportivo Elemental Javi Alcalá,,,340,48027,10000,1000,11000,4800
+,340,48028,Deportes. Club Deportivo Elemental Esgrima (Karate),,,340,48028,8000,0,8000,4800
+,340,48029,Deportes. Club Deportivo Elemental Esgrima,,,340,48029,8000,0,8000,4800
+,340,48030,Deportes. Club Deportivo Elemental de Patinaje de Arroyomolinos,,,340,48030,8000,800,8800,5600
+,340,48031,Deportes. Club de Montaña y Escalada Vivac Mountain,,,340,48031,8100,720,8820,6120
+,340,62214,Administración General de Deportes..Alumbrado pista de patinaje,,,340,62214,0,3415.9,3415.9,3415.82
+,340,62215,Administración General de Deportes..Elevación de vallado de piscina,,,340,62215,0,14810,14810,5103.18
+,340,62322,Administración General de Deportes..Impresoreas de Tickets,,,340,62322,0,416.93,416.93,416.93
+,340,62512,Administración General de Deportes..Silla acceso minusválidos piscina La Dehesa,,,340,62512,0,11273.32,11273.32,0
+,340,63203,Administración General de Deportes..Alumbrado campos de fútbol,,,340,63203,0,9695,9695,9580.14
+,340,63207,Administración General de Deportes..Grandes reparaciones en polideportivos municipales,,,340,63207,0,71412.8,71412.8,71412.8
+,340,63209,Administración General de Deportes..Reparación muro polideportivo Los Mosquitos,,,340,63209,0,31500,31500,0
+,340,63306,Administración General de Deportes..Bomba de agua caliente para polideportivo,,,340,63306,0,592.9,592.9,592.9
+,340,63316,Administración General de Deportes..Reposición calefacción polideportivo El Torreón,,,340,63316,0,50000,50000,0
+,340,63501,Administración General de Deportes..Mobiliario deportivo,,,340,63501,0,5940.95,5940.95,5940.95
+,430,22116,Comercio Guía de empresas del municipio,,,430,2,18000,-11136.56,6863.44,373.14
+,430,22199,Comercio. Otros suministros,,,430,2,5000,0,5000,2332.4
+,430,22602,Comercio. Publicidad y propaganda (Ferias),,,430,2,50000,14143.13,64143.13,11335.76
+,430,22634,Comercio.  Campañas Navideñas,,,430,2,5000,-3004.25,1995.75,0
+,430,22651,Comercio. Promoción del Comercio Local,,,430,2,25000,-17787,7213,0
+,430,22657,"Comercio, turismo Mercado Semanal",,,430,2,0,9818.26,9818.26,2720.53
+,430,22699,Comercio . Otros gastos diversos,,,430,2,3000,-2000,1000,0
+,430,47000,Comercio . Subvención convenio Polígono Valdefuentes,,,430,47000,18000,18000,36000,18000
+,430,47002,Comercio . Subvención convenio Polígono Valdearenal Norte,,,430,47002,18000,18000,36000,18000
+,430,47003,Comercio  . Subvención Poligono Valdearenal Sur,,,430,47003,18000,18000,36000,18000
+,430,47004,"Administración general de comercio, turismo y  pequeñas y medianas empresas..Promoción comercio local",,,430,47004,0,17787,17787,0
+,430,48034,"Administración general de comercio, turismo y  pequeñas y medianas empresas..Subvencion a CICOIN",,,430,48034,0,18000,18000,0
+,432,22602,Información y promoción turística Publicidad y propaganda,,,432,2,30000,7576.3,37576.3,2121.61
+,432,22642,Información y promoción turística Congreso In Rure,,,432,2,4500,0,4500,0
+,432,22652,Información y promoción turística Espectculos al Aire libre,,,432,2,60000,0,60000,25652
+,432,22663,Información y promoción turística Gastos vuelta ciclista,,,432,2,45000,0,45000,1289.66
+,432,22664,Información y promoción turística Programa radio turismo,,,432,2,3500,0,3500,100
+,432,22699,Información y promoción turística.Otros gastos diversos,,,432,2,0,0,0,0
+,432,22706,Información y promoción turística Estudios y trabajos técnicos,,,432,2,50000,6939.77,56939.77,0
+,432,63503,Información y promoción turística.VALLAS,,,432,63503,0,6000,6000,0
+,432,68200,Información y promoción turística Acondicionamiento  de El Torreón,,,432,68200,145000,161186.45,306186.45,0
+,912,10000,Organos de gobierno. Retribuciones básicas,,,912,1,475363.14,0,475363.14,210529.96
+,912,11000,Órganos de gobierno. Retribuciones básicas,,,912,1,212100.42,-212100.42,0,0
+,912,22001,"Organos de gobierno. Prensa, revistas, libros y otras publicaciones",,,912,2,6000,0,6000,0
+,912,22002,"Órganos de gobierno..Material, informático no inventariable",,,912,2,0,0,0,1153.13
+,912,22101,Organos de gobierno. Agua,,,912,2,2000,0,2000,285.12
+,912,22400,Órganos de gobierno. Primas de seguros,,,912,2,15000,0,15000,7627.22
+,912,22401,Órganos de gobierno..Primas de seguros de vehículos,,,912,2,0,0,0,526.51
+,912,22409,Órganos de gobierno..Primas de seguro Organos de Gobierno,,,912,2,0,0,0,0
+,912,22601,Organos de gobierno. Atenciones protocolarias y representativas,,,912,2,10000,0,10000,1211
+,912,22602,Organos de gobierno. Publicidad y propaganda,,,912,2,10000,5817.01,15817.01,17427.08
+,912,22604,"Órganos de gobierno..Jurídicos, contenciosos",,,912,2,0,0,0,0
+,912,22608,Organos de gobierno. Otros gastos institucionales,,,912,2,25000,43155.26,68155.26,16371.53
+,912,22654,Órganos de gobierno..Cursos de formación,,,912,2,0,0,0,650
+,912,23100,Organos de gobierno. Locomoción de los miembros de los órganos de gobierno,,,912,2,10000,11200,21200,8031.48
+,912,23300,Organos de gobierno Otras indemnizaciones de Cargos Electivos,,,912,2,75000,0,75000,57630
+,912,48018,Organos de gobierno. A Familias sin ánimo de lucro,,,912,48018,5000,0,5000,0
+,912,62309,Órganos de gobierno..Móviles corporación,,,912,62309,0,772,772,475.53
+,9201,12001,Servicios Generales.Sueldos del Grupo A2,,,9201,1,27119.96,0,27119.96,13035.6
+,9201,12003,Servicios Generales.Sueldos del Grupo C1,,,9201,1,10181.08,0,10181.08,4991.91
+,9201,12004,Servicios Generales.Sueldos del Grupo C2,,,9201,1,25420.2,0,25420.2,8192.71
+,9201,12006,Servicios Generales.Trienios,,,9201,1,8896,0,8896,4326.95
+,9201,12100,Servicios Generales.Complemento de destino,,,9201,1,38265.95,0,38265.95,16839.31
+,9201,12101,Servicios Generales.Complemento específico,,,9201,1,70006.44,0,70006.44,28471.89
+,9201,13000,Servicios Generales.Retribuciones básicas,,,9201,1,85277.24,0,85277.24,37184.92
+,9201,13002,Servicios Generales.Otras remuneraciones,,,9201,1,156425.12,0,156425.12,65174.48
+,9201,13006,Servicios Generales.Trienios,,,9201,1,17257.87,0,17257.87,7675.67
+,9201,13100,Servicios Generales.Salario Base,,,9201,1,98808.68,0,98808.68,27355.41
+,9201,13102,Servicios Generales.Otras Remuneraciones,,,9201,1,182241.13,0,182241.13,49502.88
+,9201,13106,Servicios Generales.Trienios,,,9201,1,1333.56,0,1333.56,656.35
+,9201,15100,Servicios Generales.Gratificaciones,,,9201,15100,15000,0,15000,10269.85
+,9201,20200,"Servicios Generales.Alquiler, edificios y otras contruccciones, el caño",,,9201,2,8024.73,658.85,8683.58,5344.51
+,9201,20300,"Servicios Generales Arrendamiento de maquinaria, instalacciones y utillaje",,,9201,2,1000,0,1000,677.6
+,9201,20302,Servicios Generales Arrendamiento de Fuentes Agua potable,,,9201,2,7586.7,0,7586.7,4025.19
+,9201,20601,Servicios Generales.Alquiler equipos para procesos información fotocopiadoras,,,9201,2,0,0,0,507.84
+,9201,21102,Servicios Generales.Otras reparaciones y mantenimientos,,,9201,2,35000,0,35000,1536.46
+,9201,21207,Servicios Generales.Mantenimiento garajes,,,9201,2,0,8105.27,8105.27,11949.14
+,9201,21301,"Servicios Generales.Mantenimiento, maquinaria, instalacciones y utillaje",,,9201,2,35000,0,35000,15630.03
+,9201,21400,Servicios Generales.Mantenimiento y reparación de vehículos,,,9201,2,18000,0,18000,14637.77
+,9201,22100,Servicios Generales.Energía eléctrica,,,9201,2,848645.33,0,848645.33,428841.45
+,9201,22101,Servicios Generales Agua,,,9201,2,400000,0,400000,220610.62
+,9201,22102,Servicios Generales Gas,,,9201,2,35000,0,35000,0
+,9201,22103,Servicios Generales.Combustibles y carburantes,,,9201,2,20000,0,20000,15106.62
+,9201,22104,Servicios Generales.Vestuario,,,9201,2,20000,0,20000,9204.17
+,9201,22110,Servicios Generales.Productos de limpieza y aseo,,,9201,2,1700,0,1700,562.91
+,9201,22112,"Servicios Generales Suministros de material electrónico, eléctrico y de telecomunicaciones",,,9201,2,20000,39274,59274,2016.94
+,9201,22113,Servicios Generales.Manutención de animales,,,9201,2,500,0,500,0
+,9201,22118,Servicios Generales Suministros contrato aire acondicionado,,,9201,2,18000,0,18000,0
+,9201,22128,Servicios Generales.Suministro de material de ferreteria,,,9201,2,93000,60000,153000,10389.33
+,9201,22129,Servicios Generales.Suministro de materiales de contrucción,,,9201,2,30000,0,30000,13691.35
+,9201,22130,Servicios Generales.Suministro de materiales de fontanería,,,9201,2,6000,0,6000,3649.16
+,9201,22131,Servicios Generales Suministro de materiales de jardinería,,,9201,2,1000,0,1000,97.01
+,9201,22134,Servicios Generales Suministro repuestos maquinaria y utillaje,,,9201,2,18000,-9462.34,8537.66,0
+,9201,22199,Servicios Generales.Otros suministros,,,9201,2,15000,0,15000,1908.76
+,9201,22400,Servicios Generales.Primas de seguros,,,9201,2,9000,0,9000,0
+,9201,22401,Servicios Generales.Primas de seguros de vehículos,,,9201,2,15000,0,15000,15256.9
+,9201,22602,Servicios Generales Publicidad y propaganda,,,9201,2,8000,0,8000,0
+,9201,22605,Servicios Generales.Indemnizaciones a particulares,,,9201,2,4000,0,4000,2103.41
+,9201,22699,Servicios Generales.Otros gastos diversos,,,9201,2,15000,0,15000,0
+,9201,22715,Servicios Generales.Limpieza en edificios,,,9201,2,32485.6,985.07,33470.67,6744.21
+,9201,22719,Servicios Generales Mantenimiento y conservación de fuentes,,,9201,2,95789.28,7982.44,103771.72,64181.5
+,9201,22721,Servicios Generales.Mantenimiento y reparación de edificios y pavimentos de las vías públicas,,,9201,2,104139.9,49468.11,153608.01,115639.45
+,9201,22725,Servicios Generales Desinfección desratización y palomas,,,9201,2,20000,0,20000,8469.99
+,9201,22740,Servicios Generales.Mantenimiento aire acondicionado,,,9201,2,36301.21,3025.1,39326.31,24200.8
+,9201,23101,Servicios Generales.Locomoción del personal,,,9201,2,0,0,0,27.2
+,9201,60912,Servicios Generales.LUMINARIAS,,,9201,60912,0,5909.34,5909.34,0
+,9201,61115,Servicios Generales.Reparaciones de fuentes municipales,,,9201,61115,0,393.77,393.77,393.25
+,9201,62309,Servicios Generales.Móviles corporación,,,9201,62309,0,726,726,726
+,9201,62317,Servicios Generales.Herramientas varias para S.G.,,,9201,62317,0,907.5,907.5,907.5
+,9201,62328,Servicios Generales.Plataforma elevadora,,,9201,62328,0,15000,15000,0
+,9201,62402,Servicios Generales.Remolques traslado material,,,9201,62402,0,5570.84,5570.84,5570.84
+,9201,62501,Servicios Generales.Mobiliario urbano,,,9201,62501,0,39083.07,39083.07,5532.74
+,9201,63202,Servicios Generales.Reforma del edificio Antigüo Ayuntamiento,,,9201,63202,0,63000,63000,554.85
+,9201,63210,Servicios Generales.ARREGLO VALLA CENTRO DE PROTECCIÓN ANIMAL,,,9201,63210,0,4000,4000,0
+,9201,63318,Servicios Generales.REPARACIÓN ASCENSOR EDIFICIO AYUNTAMIENTO,,,9201,63318,0,5000,5000,0
+,9201,63503,Servicios Generales.VALLAS,,,9201,63503,0,10000,10000,7623
+,9202,12000,Administración General. Sueldos del Grupo A1,,,9202,1,68228.76,0,68228.76,52782.94
+,9202,12001,Administración General Sueldos del Grupo A2,,,9202,1,13559.98,0,13559.98,6517.8
+,9202,12003,Administración General. Sueldos del Grupo C1,,,9202,1,39081.69,0,39081.69,20550.16
+,9202,12004,Administración General. Sueldos del Grupo C2,,,9202,1,101680.8,0,101680.8,23622.78
+,9202,12006,Administración General. Trienios,,,9202,1,27115.92,0,27115.92,13619.62
+,9202,12100,Administración General. Complemento de destino,,,9202,1,141845.42,0,141845.42,56409.44
+,9202,12101,Administración General. Complemento específico,,,9202,1,296198.29,0,296198.29,114900.72
+,9202,13000,Administración General. Retribuciones básicas,,,9202,1,32457.54,0,32457.54,11986.67
+,9202,13002,Administración General. Otras remuneraciones,,,9202,1,45687.47,0,45687.47,16348.57
+,9202,13006,Administración General. Trienios,,,9202,1,3257.37,0,3257.37,1205.48
+,9202,13100,Administración General. Salario Base,,,9202,1,23266.11,0,23266.11,14917.3
+,9202,13102,Administración General. Otras Remuneraciones,,,9202,1,28366.68,0,28366.68,20043.75
+,9202,13106,Administración General. Trienios,,,9202,1,2000.13,0,2000.13,1231
+,9202,15100,Administración General. Gratificaciones,,,9202,15100,20000,0,20000,8946.24
+,9202,15101,Administración General. Gratificaciones Juzgado,,,9202,1,0,0,0,1800
+,9202,20202,Administración General. Alquiler garaje Área Centralidad,,,9202,2,56461.99,4635.63,61097.62,37604.23
+,9202,20300,"Administrción General.Arrendamiento de maquinaria, instalacciones y utillaje",,,9202,2,0,605,605,1815
+,9202,20303,Administración General Arrendamiento maquinas vending Ayto.,,,9202,2,3630,0,3630,0
+,9202,20601,Administración General. Alquiler equipos para procesos información fotocopiadoras,,,9202,2,48749.28,379.94,49129.22,34237.52
+,9202,21301,"Administración General. Mantenimiento, maquinaria, instalacciones y utillaje",,,9202,2,1500,0,1500,2502.15
+,9202,21303,Administración General. Mantenimiento aparatos elevadores,,,9202,2,2657.89,234.21,2892.1,1643.34
+,9202,21600,Administración General. Mantenimiento equipos para procesos de información,,,9202,2,5000,0,5000,11777.94
+,9202,22000,Administración General. Ordinario no inventariable,,,9202,2,45000,-1476.2,43523.8,25947.76
+,9202,22001,"Administrción General. Prensa, revistas, libros y otras publicaciones",,,9202,2,20000,0,20000,15972.39
+,9202,22002,"Administración General Material, informático no inventariable",,,9202,2,2000,0,2000,1725.99
+,9202,22201,Administración General. Postales,,,9202,2,90000,-1668.02,88331.98,35079.46
+,9202,22400,Administración General. Primas de seguros,,,9202,2,87000,0,87000,13494.37
+,9202,22403,Administrción General.PRIMAS SEGURO ACCIDENTES,,,9202,2,0,0,0,0
+,9202,22407,Administrción General.PRIMAS RESPONSABILIDAD CIVIL ALTOS CARGOS Y FUNCIONARIOS,,,9202,2,0,0,0,0
+,9202,22600,Administración General. Gastos diversos,,,9202,2,4000,0,4000,708.82
+,9202,22603,Administración General. Publicación en Diarios Oficiales,,,9202,2,70000,0,70000,36453.58
+,9202,22604,"Administración General. Jurídicos, contenciosos",,,9202,2,6000,0,6000,10924.49
+,9202,22666,Administrción General.Anotaciones en Registro Propiedad,,,9202,2,0,0,0,3620.12
+,9202,22699,Administración General. Otros gastos diversos,,,9202,2,10000,0,10000,550.21
+,9202,22706,Administración General. Estudios y trabajos técnicos,,,9202,2,55000,12705,67705,10859.75
+,9202,22714,Administración General. Servicio de ordenanzas,,,9202,2,536300,49768.57,586068.57,373905.86
+,9202,22715,Administración General. Limpieza en edificios,,,9202,2,91347.26,6981.2,98328.46,36616.53
+,9202,22716,Administración General.Servicio de mensajería,,,9202,2,0,0,0,1665.97
+,9202,23101,Administrción General.Locomoción del personal,,,9202,2,0,0,0,418.79
+,9202,44900,Administración General. Subvención a la explotación Emuvisa,,,9202,44900,480000,0,480000,320000
+,9202,62309,Administrción General.Móviles corporación,,,9202,62309,0,736.89,736.89,736.89
+,9202,62605,Administrción General.Adquisición de  Equipos Informaticos,,,9202,62605,0,1476.2,1476.2,1476.2
+,9202,62618,Administrción General.APLICACIÓN PARA LA GESTIÓN DE INGRESOS VÍA WEB,,,9202,62618,0,5000,5000,0
+,9202,62619,Administrción General.SISTEMA DE GESTIÓN DE ESPERA,,,9202,62619,0,4295.57,4295.57,0
+,9202,63320,"Administrción General.MONITORES DE 28""",,,9202,63320,0,1668.02,1668.02,1660.05
+,9202,63505,Administrción General.DESTRUCTORA DE PAPEL,,,9202,63505,0,444.68,444.68,444.68
+,9202,78000,Administrción General.Subvención para construir nueva iglesia,,,9202,78000,0,180000,180000,180000
+,9202,83000,Administración General. Pagas anticipadas y demás préstamos al personal,,,9202,8,18000,0,18000,11348.87
+,9203,12001,Prevencion de Riesgos Laborales Sueldos del Grupo A2,,,9203,1,13559.98,0,13559.98,6517.8
+,9203,12003,Prevencion de Riesgos Laborales Sueldos del Grupo C1,,,9203,1,1707.69,0,1707.69,0
+,9203,12004,Prevencion de Riesgos Laborales Sueldos del Grupo C2,,,9203,1,8473.4,0,8473.4,4231.23
+,9203,12006,Prevencion de Riesgos Laborales Trienios,,,9203,1,3009.14,0,3009.14,1450.88
+,9203,12100,Prevencion de Riesgos Laborales Complemento de destino,,,9203,1,16090.05,0,16090.05,7410.34
+,9203,12101,Prevencion de Riesgos Laborales Complemento específico,,,9203,1,30520.76,0,30520.76,14005.04
+,9203,13000,Prevencion de Riesgos Laborales Retribuciones básicas,,,9203,1,10181.08,0,10181.08,4991.91
+,9203,13002,Prevencion de Riesgos Laborales Otras remuneraciones,,,9203,1,16783.05,0,16783.05,8391.53
+,9203,13006,Prevencion de Riesgos Laborales Trienios,,,9203,1,1741.19,0,1741.19,856.15
+,9203,20401,Prevencion de Riesgos Laborales.RENTING AMBULANCIA MUNICIPAL,,,9203,2,0,20000,20000,0
+,9203,21102,Prevencion de Riesgos Laborales Otras reparaciones y mantenimientos,,,9203,2,15000,0,15000,767.39
+,9203,21304,Prevencion de Riesgos Laborales Mantenimiento equipos de extinción,,,9203,2,53592,0,53592,14494.8
+,9203,21308,Prevencion de Riesgos Laborales Mantenimiento instalacciones de gas,,,9203,2,6671.72,0,6671.72,2917.25
+,9203,21309,Prevencion de Riesgos Laborales Mantenimiento Protecciones Colectivas,,,9203,2,6049.23,0,6049.23,666.71
+,9203,21312,Prevencion de Riesgos Laborales Mantenimiento desfibriladores,,,9203,2,2200,0,2200,0
+,9203,21313,Prevencion de Riesgos Laborales Señalización,,,9203,2,2000,0,2000,0
+,9203,22002,"Prevencion de Riesgos Laborales.Material, informático no inventariable",,,9203,2,0,0,0,323.07
+,9203,22115,Prevencion de Riesgos Laborales Equipos de protección individual,,,9203,2,500,0,500,379.15
+,9203,22119,Prevencion de Riesgos Laborales.Suministro radiadores PRL,,,9203,2,0,0,0,118
+,9203,22134,Prevencion de Riesgos Laborales Suministro repuestos maquinaria y utillaje,,,9203,2,15000,-5460.6,9539.4,0
+,9203,22706,Prevencion de Riesgos Laborales Estudios y trabajos técnicos,,,9203,2,6000,0,6000,979.13
+,9203,62212,Prevencion de Riesgos Laborales.Acondicionamiento dependencias para el SUMA,,,9203,62212,0,35000,35000,25608.11
+,9203,62324,Prevencion de Riesgos Laborales Desfibriladores,,,9203,62324,12000,20000,32000,0
+,9203,62508,"Prevencion de Riesgos Laborales.Mobilliario, Enseres y Equipamiento",,,9203,62508,0,3460.6,3460.6,3279.1
+,9203,62900,Prevencion de Riesgos Laborales.Planes de autoprotección y proy.,,,9203,62900,0,5000,5000,0
+,9203,63319,Prevencion de Riesgos Laborales.LINEA DE VIDA JARDINERÍA LA DEHESA,,,9203,63319,0,15000,15000,0
+,9203,63601,Prevencion de Riesgos Laborales.Ploter,,,9203,63601,0,2000,2000,1320.62
+,9231,12003,Gestión del Padrón Municipal de Habitantes Sueldos del Grupo C1,,,9231,1,1707.69,0,1707.69,7941.41
+,9231,12004,Gestión del Padrón Municipal de Habitantes Sueldos del Grupo C2,,,9231,1,25420.2,0,25420.2,9062.19
+,9231,12006,Gestión del Padrón Municipal de Habitantes Trienios,,,9231,1,2386.56,0,2386.56,829.98
+,9231,12100,Gestión del Padrón Municipal de Habitantes Complemento de destino,,,9231,1,14208.01,0,14208.01,7412.23
+,9231,12101,Gestión del Padrón Municipal de Habitantes Complemento específico,,,9231,1,28544.69,0,28544.69,16197.35
+,9231,15100,Gestión del Padrón Municipal de Habitantes Gratificaciones,,,9231,15100,3000,0,3000,0
+,924,22766,Participación ciudadana. Escuela de Participación ciudadana,,,924,2,11000,0,11000,0
+,924,48100,Participación ciudadana. Premios,,,924,48100,9000,0,9000,0
+,925,12003,Atención a los ciudadanos. Sueldos del Grupo C1,,,925,1,10181.08,0,10181.08,4991.91
+,925,12004,Atención a los ciudadanos. Sueldos del Grupo C2,,,925,1,16946.8,0,16946.8,8462.46
+,925,12006,Atención a los ciudadanos. Trienios,,,925,1,3513.43,0,3513.43,1867.27
+,925,12100,Atención a los ciudadanos. Complemento de destino,,,925,1,14208.01,0,14208.01,7920.19
+,925,12101,Atención a los ciudadanos. Complemento específico,,,925,1,28544.7,0,28544.7,14272.37
+,926,11000,Comunicaciones internas. Retribuciones básicas,,,926,1,0,30300.06,30300.06,14807.59
+,926,12001,Comunicaciones internas. Sueldos del Grupo A2,,,926,1,13559.98,0,13559.98,6517.8
+,926,12004,Comunicaciones internas. Sueldos del Grupo C2,,,926,1,16946.8,0,16946.8,4231.23
+,926,12006,Comunicaciones internas. Trienios,,,926,1,253.12,0,253.12,180.46
+,926,12100,Comunicaciones internas. Complemento de destino,,,926,1,18498.23,0,18498.23,7092.82
+,926,12101,Comunicaciones internas. Complemento específico,,,926,1,30832.13,0,30832.13,11077.08
+,926,13100,Comunicaciones internas. Salario Base,,,926,1,24155.37,0,24155.37,4231.23
+,926,13102,Comunicaciones internas. Otras Remuneraciones,,,926,1,40861.15,0,40861.15,7327.32
+,926,13106,Comunicaciones internas. Trienios,,,926,1,1066.72,0,1066.72,505.56
+,926,20605,Comunicaciones internas. Servicio cloud,,,926,2,70000,-18031.35,51968.65,3329.76
+,926,20606,Comunicaciones internas..Hosting alojamiento ventanilla única,,,926,2,0,0,0,7608.63
+,926,20610,Comunicaciones internas. Cuota Línea 010,,,926,2,500,0,500,0
+,926,20611,Comunicaciones internas. Servicio fibra óptica,,,926,2,60000,-5888.34,54111.66,9556.56
+,926,21311,Comunicaciones internas. Acondicionamiento RITI,,,926,2,10000,-10000,0,0
+,926,21600,Comunicaciones internas. Mantenimiento equipos para procesos de información,,,926,2,100000,0,100000,53777.84
+,926,21607,Comunicaciones internas. Mantenimiento Software,,,926,2,74500,0,74500,10635.3
+,926,22001,"Comunicaciones internas. Prensa, revistas, libros y otras publicaciones",,,926,2,5500,-5500,0,0
+,926,22002,"Comunicaciones internas. Material, informático no inventariable",,,926,2,15000,-10662.45,4337.55,139.16
+,926,22203,Comunicaciones internas.Informáticas ADSL,,,926,2,12000,1778.7,13778.7,8972.09
+,926,22206,Comunicaciones internas.Teléfonos fijos,,,926,2,95000,0,95000,57496.32
+,926,22207,Comunicaciones internas. Teléfonos  móviles,,,926,2,45000,0,45000,26806.64
+,926,22299,Comunicaciones internas. Otros gastos en comunicaciones,,,926,2,17500,0,17500,32304.29
+,926,22601,Comunicaciones internas. Atenciones protocolarias y representativas,,,926,2,10000,-10000,0,0
+,926,22602,Comunicaciones internas. Publicidad y propaganda,,,926,2,120000,-19000,101000,69361.15
+,926,22764,Comunicaciones internas..Diseño de Imagen y Asesoría de Medios,,,926,2,0,0,0,10775.05
+,926,62326,Comunicaciones internas..Compra cámara y micrófono ambiente Pleno,,,926,62326,0,2662.45,2662.45,0
+,926,62606,Comunicaciones internas. Adquisicion Software,,,926,62606,0,181786.13,181786.13,74962.95
+,926,62612,Comunicaciones internas..SOFTWARE TRANSPARENCIA,,,926,62612,0,21500,21500,0
+,926,62613,Comunicaciones internas..SOFTWARE GIT FASE I,,,926,62613,0,12000,12000,0
+,926,62614,Comunicaciones internas..SOFTWARE 9 LICENCIAS,,,926,62614,0,10000,10000,0
+,926,62615,Comunicaciones internas..COMPRA DE SERVIDORES,,,926,62615,0,120888.34,120888.34,0
+,926,62616,Comunicaciones internas..HARDWARE ORDENADORES,,,926,62616,0,41332.05,41332.05,27124.17
+,926,62617,Comunicaciones internas..PROGRAMA PARA INVENTARIO CORPORACIÓN,,,926,62617,0,21780,21780,8663.6
+,931,12000,Política económica y fiscal. Sueldos del Grupo A1,,,931,1,15681.97,0,15681.97,6291.96
+,931,12003,Política económica y fiscal. Sueldos del Grupo C1,,,931,1,33958.62,0,33958.62,10612.35
+,931,12004,Política económica y fiscal. Sueldos del Grupo C2,,,931,1,33893.6,0,33893.6,16013.37
+,931,12006,Política económica y fiscal. Trienios,,,931,1,12729.95,0,12729.95,4281.03
+,931,12100,Política económica y fiscal. Complemento de destino,,,931,1,50235.46,0,50235.46,19812.5
+,931,12101,Política económica y fiscal. Complemento específico,,,931,1,110838.92,0,110838.92,51475.44
+,931,22699,Política económica y fiscal..Otros gastos diversos,,,931,2,5000,0,5000,3473.34
+,931,35200,Política económica y fiscal. Intereses de demora,,,931,3,7000,0,7000,17831.78
+,931,35900,Política económica y fiscal. Otros gastos financieros,,,931,3,50000,1388.64,51388.64,5122.58
+,931,35901,Política económica y fiscal..Gastos financieros TPV,,,931,3,10000,0,10000,137.81
+,932,12000,Gestión del sistema tributario. Sueldos del Grupo A1,,,932,1,15681.97,0,15681.97,7412.11
+,932,12003,Gestión del sistema tributario. Sueldos del Grupo C1,,,932,1,40724.32,0,40724.32,19542.87
+,932,12004,Gestión del sistema tributario. Sueldos del Grupo C2,,,932,1,84734,0,84734,44240.58
+,932,12006,Gestión del sistema tributario. Trienios,,,932,1,15838.98,0,15838.98,7573.59
+,932,12100,Gestión del sistema tributario. Complemento de destino,,,932,1,77227.86,0,77227.86,38584.21
+,932,12101,Gestión del sistema tributario. Complemento específico,,,932,1,169858.34,0,169858.34,76498.56
+,932,15100,Gestión del sistema tributario. Gratificaciones,,,932,15100,10000,0,10000,0
+,934,12000,Gestión de la deuda y de la tesorería. Sueldos del Grupo A1,,,934,1,15681.97,0,15681.97,6870.1
+,934,12003,Gestión de la deuda y de la tesorería. Sueldos del Grupo C1,,,934,1,1707.69,0,1707.69,0
+,934,12004,Gestión de la deuda y de la tesorería. Sueldos del Grupo C2,,,934,1,25420.2,0,25420.2,12391.07
+,934,12006,Gestión de la deuda y de la tesorería. Trienios,,,934,1,6715.13,0,6715.13,2493.35
+,934,12100,Gestión de la deuda y de la tesorería. Complemento de destino,,,934,1,28858.05,0,28858.05,13133.01
+,934,12101,Gestión de la deuda y de la tesorería. Complemento específico,,,934,1,59485.84,0,59485.84,33182.92
