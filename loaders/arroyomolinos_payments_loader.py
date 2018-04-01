@@ -26,7 +26,6 @@ class ArroyomolinosPaymentsLoader(PaymentsLoader):
             'fc_code': None,  # We don't try (yet) to have foreign keys to existing records
             'ec_code': None,
             'date': datetime.datetime.strptime(line[3].strip(), "%d/%m/%Y"),
-            'contract_type': None,
             'payee': payee,
             'anonymized': anonymized,
             'description': description,
